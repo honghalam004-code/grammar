@@ -1,0 +1,259 @@
+[
+  {
+    "category": "01. 품사 기초",
+    "title": "동사 (Verb)",
+    "formula": "동사 = ~하다, ~이다 (문장의 주인공이 하는 행동이나 상태)",
+    "explanation": "문장에서 핵심이 되는 '움직임'이나 '상태'를 나타내는 말입니다. 주어가 누구냐, 때가 언제냐에 따라 모양이 변합니다.",
+    "examples": [
+      "I run fast. (나는 빠르게 달린다 - 행동)",
+      "She is happy. (그녀는 행복하다 - 상태)"
+    ],
+    "tips": "💡 비유: 문장이라는 자동차의 '엔진' 역할을 합니다."
+  },
+  {
+    "category": "01. 품사 기초",
+    "title": "명사 (Noun)",
+    "formula": "명사 = 이름 (사람, 사물, 장소, 개념의 이름)",
+    "explanation": "이 세상 모든 것에 붙여진 이름입니다. 눈에 보이는 사물부터 눈에 보이지 않는 마음이나 개념도 모두 명사입니다.",
+    "examples": [
+      "Apple, Apple Watch, Seoul, Love, Peace"
+    ],
+    "tips": "💡 비유: 물건에 붙은 '이름표'입니다. 하나일 때는 a/an을 붙이거나 복수형(-s)을 만듭니다."
+  },
+  {
+    "category": "01. 품사 기초",
+    "title": "대명사 (Pronoun)",
+    "formula": "대명사 = 명사를 대신하는 말",
+    "explanation": "앞에서 이미 나온 명사 이름을 계속 반복해서 말하기 귀찮을 때 대신 쓰는 말입니다.",
+    "examples": [
+      "Minji is cool. She likes music. (Minji를 반복하지 않고 She로 받음)",
+      "I bought a phone. I love it. (phone을 it으로 받음)"
+    ],
+    "tips": "💡 비유: 이름표 대신 쓰는 '대역 선수'입니다."
+  },
+  {
+    "category": "01. 품사 기초",
+    "title": "형용사 (Adjective)",
+    "formula": "형용사 = 명사를 꾸며주는 말 (~한, ~ㄴ으로 끝남)",
+    "explanation": "명사가 어떤 모습인지, 어떤 상태인지를 알록달록하게 꾸며주고 설명해 주는 역할을 합니다.",
+    "examples": [
+      "a pretty flower (예쁜 꽃)",
+      "a big box (큰 상자)"
+    ],
+    "tips": "💡 비유: 명사라는 필통을 꾸미는 '스티커'입니다."
+  },
+  {
+    "category": "01. 품사 기초",
+    "title": "부사 (Adverb)",
+    "formula": "부사 = 명사 빼고 다 꾸며주는 양념 (~하게, ~히)",
+    "explanation": "동사, 형용사, 다른 부사, 또는 문장 전체에 덧붙여서 '어떻게, 언제, 어디서, 얼마나' 일어났는지 양념을쳐 주는 역할입니다.",
+    "examples": [
+      "He runs very fast. (그는 '매우' '빠르게' 달린다 - fast와 run을 꾸밈)",
+      "Luckily, I passed. (다행히도, 나는 통과했다 - 문장 전체를 꾸밈)"
+    ],
+    "tips": "💡 비유: 음식의 맛을 더 살려주는 '조미료(양념)'입니다."
+  },
+  {
+    "category": "01. 품사 기초",
+    "title": "전치사 (Preposition)",
+    "formula": "전치사 + 명사 (명사 앞에 위치하는 말)",
+    "explanation": "명사 앞에 붙어서 시간, 장소, 방향 등의 위치나 관계를 알려주는 말입니다.",
+    "examples": [
+      "in the room (방 안에서)",
+      "on the table (탁자 위에서)",
+      "at 7 o'clock (7시에)"
+    ],
+    "tips": "💡 비유: 명사와 다른 단어를 연결해 주는 '풀(Glue)' 같은 존재입니다."
+  },
+  {
+    "category": "01. 품사 기초",
+    "title": "관사 (Article)",
+    "formula": "a / an / the + 명사",
+    "explanation": "명사라는 모자 앞에 쓰는 조그만 모자입니다. 정해지지 않은 하나에는 a/an, '바로 그 것'이라고 정해진 것에는 the를 씁니다.",
+    "examples": [
+      "I saw a dog. The dog was cute. (아무 개나 한 마리 보았는데, '그' 개가 귀여웠다)"
+    ],
+    "tips": "💡 a/an은 '아무거나 하나', the는 '너도 알고 나도 아는 바로 그거!'입니다."
+  },
+
+  {
+    "category": "02. 문장 구조 & 시제",
+    "title": "문장의 5형식 (Sentence Structures)",
+    "formula": "1형식(SV) / 2형식(SVC) / 3형식(SVO) / 4형식(SVOO) / 5형식(SVOC)",
+    "explanation": "영어의 모든 문장은 단어들이 줄 서는 5가지 기본 레시피(틀)로 이루어져 있습니다.",
+    "examples": [
+      "1형식: Birds fly. (새가 난다)",
+      "2형식: She is a doctor. (그녀는 의사다)",
+      "3형식: I love pizza. (나는 피자를 좋아한다)",
+      "4형식: He gave me a present. (그는 나에게 선물을 주었다)",
+      "5형식: You make me happy. (너는 나를 행복하게 만든다)"
+    ],
+    "tips": "💡 S=주어(주인공), V=동사(행동), O=목적어(~을/를), C=보충해주는 말(보어)"
+  },
+  {
+    "category": "02. 문장 구조 & 시제",
+    "title": "시제 (Tenses)",
+    "formula": "현재/과거/미래 및 완료(have p.p.) / 진행(be -ing)",
+    "explanation": "일이 일어난 시점이 '지금인지, 옛날인지, 앞으로인지, 과거부터 지금까지 계속인지'를 동사의 모양으로 나타냅니다.",
+    "examples": [
+      "현재완료: I have lived here for 3 years. (3년 전부터 지금까지 산다)",
+      "과거완료: The train had already left when I arrived. (도착했을 때 이미 기차가 떠났었다)"
+    ],
+    "tips": "💡 시제는 타임머신입니다. 동사의 모양만 보고도 시계를 맞출 수 있습니다."
+  },
+  {
+    "category": "02. 문장 구조 & 시제",
+    "title": "수동태 (Passive Voice)",
+    "formula": "be동사 + p.p. (과거분사) + (by 행위자)",
+    "explanation": "주인공이 직접 행동하는 게 아니라, '행동을 당하는 입장'에서 문장을 쓰는 방식입니다.",
+    "examples": [
+      "능동태: A cat pushed the cup. (고양이가 컵을 밀었다)",
+      "수동태: The cup was pushed by a cat. (컵이 고양이에 의해 밀려났다)"
+    ],
+    "tips": "💡 비유: '내가 빵을 먹었다'가 능동, '빵 입장에선 나한테 먹혔다'가 수동입니다."
+  },
+  {
+    "category": "02. 문장 구조 & 시제",
+    "title": "조동사 (Modal Verbs)",
+    "formula": "조동사 + 동사원형",
+    "explanation": "진짜 동사 앞에 붙어서 '할 수 있다, 해야 한다, 일지도 모른다'처럼 마음의 양념(능력, 의무, 추측)을 보태주는 도우미 동사입니다.",
+    "examples": [
+      "can (할 수 있다) / must (~해야 한다 / ~임에 틀림없다)",
+      "should (~하는 게 좋다) / may (~일지도 모른다)"
+    ],
+    "tips": "💡 비유: 진짜 동사 옆에서 조수 역할을 하는 '도우미 로봇'입니다."
+  },
+
+  {
+    "category": "03. 준동사 (동사의 변신)",
+    "title": "to 부정사 (to-Infinitive)",
+    "formula": "to + 동사원형",
+    "explanation": "동사가 'to' 모자를 써서 명사(~하는 것), 형용사(~할), 부사(~하기 위해)로 변신하여 아무 데나 쓰이는 다재다능한 녀석입니다.",
+    "examples": [
+      "명사: To study is important. (공부하는 것은 중요하다)",
+      "형용사: I have water to drink. (마실 물이 있다)",
+      "부사: I went to school to learn. (배우기 위해 학교에 갔다)"
+    ],
+    "tips": "💡 비유: 상황에 따라 옷을 바꿔 입는 '트랜스포머'입니다."
+  },
+  {
+    "category": "03. 준동사 (동사의 변신)",
+    "title": "동명사 (Gerund)",
+    "formula": "동사원형 + -ing",
+    "explanation": "동사 뒤에 -ing를 붙여서 깔끔하게 '명사(~하기, ~하는 것)'로 신분 세탁을 한 단어입니다.",
+    "examples": [
+      "Swimming is fun. (수영하는 것은 재미있다)",
+      "I enjoy reading books. (나는 책 읽는 것을 즐긴다)"
+    ],
+    "tips": "💡 동사 출신이지만 주어, 목적어 자리에 들어가는 '명사 탈을 쓴 동사'입니다."
+  },
+  {
+    "category": "03. 준동사 (동사의 변신)",
+    "title": "분사 (Participle)",
+    "formula": "현재분사 (v-ing: 하는) / 과거분사 (p.p.: 되는, 당한)",
+    "explanation": "동사를 '형용사'로 바꾸어 명사를 꾸며주게 만든 형태입니다. 직접 하고 있으면 -ing, 당하고 있으면 p.p.를 씁니다.",
+    "examples": [
+      "a sleeping baby (자고 있는 아기)",
+      "a broken window (깨진 창문)"
+    ],
+    "tips": "💡 비유: 동사를 명사 스티커(형용사)로 변신시킨 것입니다."
+  },
+  {
+    "category": "03. 준동사 (동사의 변신)",
+    "title": "분사구문 (Participle Clause)",
+    "formula": "접속사+주어 삭제 후 동사를 -> v-ing 로 축약",
+    "explanation": "긴 접속사 문장을 부드럽고 짧게 줄여서 인스타 숏폼처럼 간결하게 다듬은 문장 형태입니다.",
+    "examples": [
+      "원래: When I walked on the street, I met him.",
+      "줄인 문장: Walking on the street, I met him. (길을 걷다가, 그를 만났다)"
+    ],
+    "tips": "💡 비유: 길고 지루한 긴 글을 한 단어로 줄인 '요약본'입니다."
+  },
+
+  {
+    "category": "04. 문장의 확장 (절 & 연결)",
+    "title": "접속사 (Conjunction)",
+    "formula": "단어와 단어, 문장과 문장을 연결",
+    "explanation": "단어와 단어, 또는 문장과 문장을 이어주는 '징검다리' 같은 역할을 하는 단어입니다.",
+    "examples": [
+      "and (그리고), but (하지만), because (~때문에), although (비록 ~일지라도)"
+    ],
+    "tips": "💡 비유: 기차 칸과 기차 칸을 연결해 주는 '고리'입니다."
+  },
+  {
+    "category": "04. 문장의 확장 (절 & 연결)",
+    "title": "관계사 (Relatives)",
+    "formula": "관계대명사 (who, which, that) / 관계부사 (where, when, why, how)",
+    "explanation": "앞에 나오는 명사(선행사)에 대해 더 자세히 설명해 주기 위해 두 문장을 접착제처럼 붙여주는 말입니다.",
+    "examples": [
+      "I know the girl who loves cats. (나는 고양이를 좋아하는 그 소녀를 안다)"
+    ],
+    "tips": "💡 비유: 명사에 부연 설명을 적어주는 '포스트잇' 연결고리입니다."
+  },
+  {
+    "category": "04. 문장의 확장 (절 & 연결)",
+    "title": "명사절 & 부사절 (Noun & Adverbial Clauses)",
+    "formula": "접속사 + 주어 + 동사 가 통째로 명사/부사 역할",
+    "explanation": "단어 하나가 아니라 '문장 전체'가 명사(주어/목적어)나 부사(부연설명) 역할을 통째로 수행하는 것입니다.",
+    "examples": [
+      "명사절: I think [that you are smart]. (나는 네가 똑똑하다고 생각해)",
+      "부사절: [If it rains], I will stay home. (비가 온다면, 집에 있을 거야)"
+    ],
+    "tips": "💡 문장 전체를 커다란 한 덩어리 상자로 포장해서 쓰는 개념입니다."
+  },
+
+  {
+    "category": "05. 심화 표현 & 특수구문",
+    "title": "비교급과 최상급 (Comparison)",
+    "formula": "비교급 (-er / more~) / 최상급 (-est / most~)",
+    "explanation": "두 개를 비교해서 '더 ~한' 것을 말할 때, 혹은 셋 이상 중에서 '가장 ~한' 것을 나타낼 때 사용합니다.",
+    "examples": [
+      "Tom is taller than me. (톰은 나보다 더 크다)",
+      "He is the tallest in the class. (그는 반에서 가장 크다)"
+    ],
+    "tips": "💡 er은 '더!', est는 '원탑(가장!)'으로 기억하세요."
+  },
+  {
+    "category": "05. 심화 표현 & 특수구문",
+    "title": "가정법 (Subjunctive)",
+    "formula": "If + 과거동사, 주어 + 조동사과거 + 동사원형",
+    "explanation": "실제 일어난 일이 아니라 '만약 ~라면 좋을 텐데...' 하고 상상하거나 반대로 상상해 볼 때 쓰는 표현입니다.",
+    "examples": [
+      "If I were a bird, I could fly to you. (내가 새라면 너에게 날아갈 텐데 - 실제론 새가 아님)"
+    ],
+    "tips": "💡 상상 속 일이므로 시제를 일부러 한 단계 과거로 '시부지기' 후퇴시켜서 표현합니다."
+  },
+  {
+    "category": "05. 심화 표현 & 특수구문",
+    "title": "수일치 (Subject-Verb Agreement)",
+    "formula": "주어가 단수(1개)면 동사도 단수, 주어가 복수(여러개)면 동사도 복수",
+    "explanation": "주어의 개수나 종류에 맞춰 동사의 모양을 짝꿍처럼 똑같이 맞춰주는 기본 규칙입니다.",
+    "examples": [
+      "The boy runs. (소년 한 명 -> runs)",
+      "The boys run. (소년 여러 명 -> run)"
+    ],
+    "tips": "💡 주어와 동사의 '커플 맞춤복'입니다. 주어에 -s가 없으면 동사에 -s를 붙입니다."
+  },
+  {
+    "category": "05. 심화 표현 & 특수구문",
+    "title": "도치 & 강조 (Inversion & Emphasis)",
+    "formula": "도치: 부정어/부사구 + 동사 + 주어 / 강조: It is [강조] that ~",
+    "explanation": "특정 단어를 엄청나게 강조하고 싶을 때 문장 앞으로 끄집어내거나, 주어와 동사의 위치를 바꾸어 버리는 기법입니다.",
+    "examples": [
+      "도치: Never did I dream of it. (난 그걸 꿈에도 생각지 못했다)",
+      "강조: It was Tom that broke the window. (창문을 깬 것은 바로 톰이었다)"
+    ],
+    "tips": "💡 비유: 중요한 단어에 형광펜을 칠하거나 굵은 글씨로 크게 쓰는 효과입니다."
+  },
+  {
+    "category": "05. 심화 표현 & 특수구문",
+    "title": "화법 (Reported Speech)",
+    "formula": "직접화법 (\" \") <-> 간접화법 (that절/if절)",
+    "explanation": "남이 한 말을 따옴표 그대로 전달할지(\" \"), 내 문장 안으로 녹여서 인칭과 시제를 맞춰 전달할지 바꾸는 규칙입니다.",
+    "examples": [
+      "직접: He said, \"I am hungry.\"",
+      "간접: He said that he was hungry."
+    ],
+    "tips": "💡 내 입장에서 말을 바꿔 전달할 때는 시제와 대명사를 맞춰주어야 합니다."
+  }
+]
