@@ -1,308 +1,323 @@
 [
   {
     "category": "PART 1. 품사의 기초 및 문장 성분",
-    "title": "01. 동사 (Verb): 자동사 vs 타동사 및 혼동 어휘 깊이 읽기",
-    "formula": "자동사: S + V (+ 전치사 + O) / 타동사: S + V + O (전치사 절대 불가)",
-    "explanation": "동사는 동작의 화살표가 주어 자신에게서 끝나느냐, 아니면 외부의 대상(목적어)으로 향하느냐에 따라 구분됩니다.\n\n1. 자동사 (Intransitive Verb)\n- 동작이 주어 자신에게만 미치며 목적어(~을/를) 없이 스스로 의미를 완성합니다.\n- 대표 자동사: sleep(자다), arrive(도착하다), rise(오르다), disappear(사라지다), exist(존재하다)\n- [핵심 규칙] 자동사 뒤에 명사를 덧붙이려면 반드시 '전치사'라는 징검다리를 놓아야 합니다.\n  - listen to music (O) / listen music (X)\n  - look at the board (O) / look the board (X)\n  - wait for the bus (O) / wait the bus (X)\n\n2. 타동사 (Transitive Verb)\n- 주어의 행동이 외부 대상에게 직접 전달되므로 '무엇을/누구를?'에 해당하는 목적어가 필수입니다.\n- [시험 단골 3대 트릭] 우리말 해석상 '~에 대해', '~와', '~로' 같은 전치사가 어울릴 것 같지만, 영문법상 전치사를 쓰면 100% 감점되는 완전타동사:\n  - discuss the problem (O) / discuss about (X) (~에 대해 토론하다)\n  - marry him (O) / marry with (X) (~와 결혼하다)\n  - enter the room (O) / enter into (X) (~에 들어가다)\n  - attend the meeting (O) / attend at (X) (~에 참석하다)\n  - reach the station (O) / reach to (X) (~에 도착하다)\n  - resemble her mother (O) / resemble with (X) (~와 닮다)\n\n3. 시험 출제 1순위: 자/타동사 형태 혼동 어휘 완벽 정복\n① lie vs lay\n- lie - lay - lain - lying (자동사: 누워있다, 존재하다)\n- lay - laid - laid - laying (타동사: ~을 놓다, 알을 낳다)\n② rise vs raise\n- rise - rose - risen - rising (자동사: 오르다, 떠오르다)\n- raise - raised - raised - raising (타동사: ~을 올리다, (아이/동물을) 키우다)\n③ sit vs seat\n- sit - sat - sat (자동사: 앉다)\n- seat - seated - seated (타동사: ~을 앉히다)",
+    "title": "01. 동사: 자동사와 타동사의 구분 및 주요 혼동 어휘",
+    "formula": "자동사: S + V (+ 전치사 + O) / 타동사: S + V + O (전치사 사용 불가)",
+    "explanation": "동사는 문장에서 주어의 동작이나 상태를 나타내는 핵심 요소입니다. 동작의 화살표가 주어 자신에게서 끝나는지, 아니면 외부 대상(목적어)으로 향하는지에 따라 자동사와 타동사로 나뉩니다.\n\n1. 완전자동사 (1형식)\n- 주어 자신의 행동으로 의미가 완성되며, 목적어(~을/를)가 필요 없습니다.\n- 대표 동사: sleep(자다), arrive(도착하다), rise(오르다), disappear(사라지다), exist(존재하다), happen(일어나다)\n- [핵심 규칙] 자동사 뒤에 명사를 덧붙이고 싶다면 반드시 **전치사**라는 다리가 필요합니다.\n  - listen to music (O) / listen music (X)\n  - look at the board (O) / look the board (X)\n  - wait for the bus (O) / wait the bus (X)\n\n2. 완전타동사 (3형식)\n- 동사의 동작이 외부 대상에 영향을 미치므로 목적어가 필수입니다.\n- [시험 단골 트릭] 우리말 해석상 전치사가 붙을 것 같지만, 영문법상 **전치사를 절대로 쓰지 않는 완전타동사**:\n  - discuss the problem (O) / discuss about (X) (~에 대해 토론하다)\n  - marry her (O) / marry with (X) (~와 결혼하다)\n  - enter the room (O) / enter into (X) (~에 들어가지다)\n  - attend the meeting (O) / attend at (X) (~에 참석하다)\n  - reach the station (O) / reach to (X) (~에 도착하다)\n  - resemble her mother (O) / resemble with (X) (~와 닮다)\n\n3. 시험 출제 1순위: 자/타동사 형태 혼동 어휘\n① lie vs lay\n- **lie - lay - lain - lying** (자동사: 주어가 누워있다, 있다)\n- **lay - laid - laid - laying** (타동사: ~을 놓다, (알을) 낳다)\n② rise vs raise\n- **rise - rose - risen - rising** (자동사: 주어가 오르다)\n- **raise - raised - raised - raising** (타동사: ~을 올리다, (아이를) 키우다)\n③ sit vs seat\n- **sit - sat - sat** (자동사: 주어가 앉다)\n- **seat - seated - seated** (타동사: ~을 앉히다)",
     "examples": [
-      "[자동사 기본] The sun rises in the east every morning. (해는 매일 아침 동쪽에서 떠오른다 - 주어 스스로 오름)",
-      "[타동사 기본] The teacher raised his hand to stop the noise. (선생님은 소음을 멈추기 위해 손을 들어 올렸다 - 손을 올림)",
-      "[시험 오답 파괴] We discussed about the project for hours. (X) -> We discussed the project for hours. (O)",
-      "[시험 오답 파괴] He entered into the conference room quietly. (X) -> He entered the conference room quietly. (O)",
-      "[혼동 어휘 실전] Lie on the sofa and take a rest. (O - 편하게 누워라)",
-      "[혼동 어휘 실전] Please lay the heavy boxes on the table. (O - 상자를 놓아라)"
+      "[자동사] The sun rises in the east every morning. (해는 매일 아침 동쪽에서 떠오른다 - 주어 스스로 오름)",
+      "[타동사] The government raised the minimum wage. (정부는 최저임금을 인상했다 - 임금을 올림)",
+      "[오답 파괴] We discussed about the project for hours. (X) -> We discussed the project for hours. (O)",
+      "[오답 파괴] He entered into the room quietly. (X) -> He entered the room quietly. (O)",
+      "[혼동 어휘] Lie on the sofa and take a rest. (O - 주어가 눕다)",
+      "[혼동 어휘] Lay the heavy box on the table. (O - 상자를 놓다)"
     ],
-    "tips": "💡 [Teacher's Secret Note]\nenter into가 시험에 정답으로 나오는 유일한 예외!\n'enter into an agreement/contract/discussion'처럼 '계약을 체결하다, 논의를 시작하다'라는 추상적 의미일 때만 into를 씁니다. 실제 눈에 보이는 건물이나 방에 들어갈 때는 절대로 into를 쓰지 마세요!"
+    "tips": "💡 [Teacher's Secret Note]\nenter into가 맞게 쓰이는 유일한 예외!\n'enter into an agreement(계약을 체결하다)'처럼 추상적인 시작을 의미할 때는 into를 씁니다. 실제 물리적인 장소나 방에 들어갈 때는 절대로 into를 쓰지 마세요."
   },
   {
     "category": "PART 1. 품사의 기초 및 문장 성분",
-    "title": "02. 명사 & 관사 (Noun & Article): 가산·불가산 구분과 정관사의 용법",
+    "title": "02. 명사와 관사: 셀 수 있는 명사와 셀 수 없는 명사, 정관사의 용법",
     "formula": "a/an + 단수 가산명사 / the + 특정 명사 (단수/복수/불가산 모두 가능)",
-    "explanation": "1. 명사의 종류와 수량 표현 ( 가산 vs 불가산 )\n- 가산명사 (Countable): 하나둘 셀 수 있으며, 단수형에는 a/an을 붙이고 복수형에는 -s/-es를 붙입니다. (a book, two books)\n- 불가산명사 (Uncountable): 형태가 일정하지 않거나 눈에 보이지 않는 개념으로, 절대로 a/an을 붙이거나 복수형 -s를 붙일 수 없습니다.\n- [내신/수능 빈출 불가산명사 7대장]\n  - information (정보), advice (조언), equipment (장비), furniture (가구), luggage/baggage (짐), news (뉴스), money (돈)\n- 불가산명사의 수량을 셀 때는 단위 표현을 씁니다: a piece of information, two slices of bread, a cup of coffee\n\n2. 관사의 완벽 활용법 ( a/an vs the )\n- 부정관사 (a/an): 상대방과 내가 특정하지 않은 '아무거나 하나'를 말할 때 씁니다. (자음 앞 a, 발음상 모음 앞 an)\n- 정관사 (the): 다음과 같은 상황에서 반드시 붙입니다.\n  ① 앞에서 이미 언급되었던 명사를 다시 가리킬 때\n  ② 문맥상 너와 내가 무엇인지 서로 명확히 알고 있을 때\n  ③ 뒤에서 형용사구나 관계사절이 한정하여 꾸며줄 때\n  ④ 세상에 단 하나만 존재할 때 (the sun, the moon, the earth)\n  ⑤ 악기 이름 앞 (play the piano) ※ 단, 운동 경기 앞에는 관사를 안 씀 (play soccer)",
+    "explanation": "1. 명사의 구분 (가산명사 vs 불가산명사)\n- **가산명사**: 셀 수 있는 명사로 단수형에는 a/an을 붙이고, 복수형에는 -s/-es를 붙입니다.\n- **불가산명사**: 셀 수 없는 명사로, 절대로 부정관사 a/an이나 복수형 -s를 붙일 수 없습니다.\n- [대표 불가산명사 목록]\n  - information (정보), advice (조언), equipment (장비), furniture (가구), luggage/baggage (짐), news (뉴스), money (돈)\n- 불가산명사의 수량을 셀 때는 단량성 조수사(수량 단위)를 사용합니다.\n  - a piece of information, two slices of bread, a cup of coffee\n\n2. 관사 (a/an vs the)\n- **부정관사 (a/an)**: 정해지지 않은 가산명사 단수 하나를 가리킬 때 씁니다. (자음 앞 a, 모음 발음 앞 an)\n- **정관사 (the)**: 다음과 같은 특정 상황에서 사용합니다.\n  ① 앞에서 이미 언급된 명사를 다시 지칭할 때\n  ② 뒤에서 수식어구가 한정하여 꾸며줄 때\n  ③ 너와 내가 무엇인지 서로 알고 있을 때\n  ④ 세상에서 유일무이한 존재 (the sun, the moon, the earth)\n  ⑤ 최상급, 서수, the same, the only 등의 표현과 함께 쓰일 때\n  ⑥ 악기 이름 앞 (play the piano) ※ 운동 경기 앞에는 관사를 쓰지 않음 (play soccer)",
     "examples": [
-      "[가산명사] I bought an apple and three oranges at the market.",
-      "[불가산명사 오답] He gave me a very useful advice. (X) -> He gave me very useful advice. (O)",
-      "[불가산 단위표현] Let me give you two pieces of advice.",
-      "[관사 문맥 구분] I saw a dog in the park. The dog was barking at a stranger.",
-      "[관사 관용표현] She plays the violin very well, but she doesn't like to play basketball."
+      "[불가산명사] I need to buy some new furniture for my room. (furnitures (X))",
+      "[수량 단위] The counselor gave me two pieces of advice.",
+      "[불가산 오답] He provided us with a useful information. (X) -> He provided us with useful information. (O)",
+      "[관사 문맥] I saw a cat. The cat was sleeping under the table.",
+      "[관사 관용구] She plays the flute well, but she doesn't play basketball."
     ],
-    "tips": "💡 [Teacher's Secret Note]\nnews는 끝에 -s가 붙어있어서 복수명사처럼 보이지만, '단수 취급하는 불가산명사'입니다! 따라서 'The news is good'이 맞지 'The news are good'은 틀립니다."
+    "tips": "💡 [Teacher's Secret Note]\nnews는 -s가 붙어 복수처럼 보이지만 '단수 불가산명사'입니다. 따라서 동사는 무조건 단수동사(is/was)를 씁니다. (The news is good.)"
   },
   {
     "category": "PART 1. 품사의 기초 및 문장 성분",
-    "title": "03. 대명사 (Pronoun): 인칭·지시·재귀대명사와 명사 반복 회피",
+    "title": "03. 대명사: 인칭·지시·재귀대명사와 명사의 대등 비교",
     "formula": "주격/소유격/목적격/소유대명사 & 재귀대명사 (-self) & 지시대명사 (that/those)",
-    "explanation": "대명사는 이미 등장한 명사의 지루한 반복을 피하고 문장을 한층 간결하게 만들기 위해 사용됩니다.\n\n1. 인칭대명사의 격 변화\n- 주격(주어 자리): I, he, she, we, they\n- 소유격(명사 앞): my, his, her, our, their\n- 목적격(동사/전치사의 목적어): me, him, her, us, them\n- 소유대명사(~의 것): mine, his, hers, ours, theirs\n\n2. 재귀대명사 (-self / -selves)의 2가지 용법\n- 재귀적 용법: 문장의 주어(S)와 목적어(O)가 동일 인물일 때 반드시 쓰며, 생략이 불가능합니다.\n  - He killed him. (그가 다른 남자를 죽임)\n  - He killed himself. (그가 자기 자신을 죽임 - 자살)\n- 강조적 용법: 주어나 목적어를 '직접~했다'라고 강조할 때 쓰며, 생략해도 문장이 완벽합니다.\n  - I solved the problem myself. (내가 직접 그 문제를 풀었다)\n\n3. 시험에 매년 나오는 지시대명사의 명사 반복 회피 (that / those)\n- 비교 구문에서 앞에 나온 명사의 반복을 피하기 위해 지시대명사를 사용합니다.\n- 앞의 단수명사를 받을 때 ➡️ **that** 사용\n- 앞의 복수명사를 받을 때 ➡️ **those** 사용",
+    "explanation": "대명사는 이미 언급된 명사나 명사구를 대신하여 문장의 지루한 반복을 피하고 짧게 만들어 줍니다.\n\n1. 인칭대명사의 격 변화\n- 주격: I, he, she, we, they, it\n- 소유격: my, his, her, our, their, its (※ it's는 it is의 축약형)\n- 목적격: me, him, her, us, them, it\n- 소유대명사: mine, his, hers, ours, theirs\n\n2. 재귀대명사 (-self / -selves)의 용법\n- **재귀적 용법 (생략 불가)**: 주어(S)와 목적어(O)가 같은 인물일 때 씁니다.\n  - He killed him. (다른 남자를 죽임) / He killed himself. (자살함)\n- **강조적 용법 (생략 가능)**: 주어나 목적어를 직접 했다고 강조할 때 씁니다.\n  - I built this cabinet myself. (내가 직접 지었다)\n\n3. 비교 구문에서의 명사 대등 비교 (that / those)\n비교 구문(than, as)에서는 비교 대상이 문법적으로 대등해야 합니다. 앞 명사의 반복을 피하기 위해 지시대명사를 씁니다.\n- 단수 명사 ➡️ **that** (that of ~)\n- 복수 명사 ➡️ **those** (those of ~)",
     "examples": [
-      "[재귀 용법] She looked at herself in the mirror and smiled.",
-      "[강조 용법] The president himself delivered the opening speech to the public.",
-      "[단수 명사 받기] The climate of Korea is milder than that of Russia. (that = the climate)",
-      "[복수 명사 받기] The ears of a rabbit are longer than those of a cat. (those = the ears)",
-      "[오답 파괴] The eyes of owls are bigger than cats. (X -> 비교 대상 불일치: than those of cats가 맞음)"
+      "[재귀 용법] She looked at herself in the mirror.",
+      "[강조 용법] The president himself delivered the speech.",
+      "[단수 비교 정답] The climate of Korea is milder than that of Russia. (that = the climate)",
+      "[단수 비교 오답] The climate of Korea is milder than Russia. (X - 한국의 기후와 러시아 나라 전체를 비교하는 오류)",
+      "[복수 비교 정답] The eyes of an owl are larger than those of a cat. (those = the eyes)"
     ],
-    "tips": "💡 [Teacher's Secret Note]\n비교 구문 문제에서 'The population of China is larger than Korea'처럼 쓰면 '중국의 인구'와 '한국이라는 나라 전체'를 비교하는 꼴이 되어 오답입니다. 반드시 'than that of Korea'로 명사 대응을 맞춰주세요!"
+    "tips": "💡 [Teacher's Secret Note]\n시험에 'it / they' 또는 'that / those'에 밑줄이 그어져 있다면 단수/복수 수일치 문제입니다. 가리키는 원본 명사를 찾아 형태를 맞추세요."
   },
   {
     "category": "PART 1. 품사의 기초 및 문장 성분",
-    "title": "04. 형용사 vs 부사 (Adjective vs Adverb) 세부 비교 및 헷갈리는 형태",
-    "formula": "형용사: 명사 수식 & 보어(C) / 부사: 동사·형용사·부사·문장 전체 수식",
-    "explanation": "1. 형용사 (Adjective)\n- 명사의 성질, 상태, 모양을 꾸며주거나(~한), 문장에서 보어(C) 자리에 들어가 주어나 목적어를 보충 설명합니다.\n- 예: a smart student, The tea is hot., You look beautiful.\n\n2. 부사 (Adverb)\n- 명사를 제외한 나머지 모든 요소(동사, 형용사, 다른 부사, 문장 전체)를 꾸며주는 양념 역할입니다.\n- '언제, 어디서, 어떻게, 왜, 얼마나'에 대한 정보를 제공합니다.\n- 예: He speaks fluently., She is extremely gorgeous., Fortunately, we survived.\n\n3. 주의해야 할 형용사/부사 형태 및 의미 변화 (★수능/내신 단골)\n- hard (형: 어려운, 단단한 / 부: 열심히) vs **hardly** (부: 거의 ~않다)\n- late (형: 늦은 / 부: 늦게) vs **lately** (부: 최근에)\n- high (형: 높은 / 부: 높게) vs **highly** (부: 매우, 대단히)\n- near (형: 가까운 / 부: 가까이) vs **nearly** (부: 거의)\n- short (형: 짧은 / 부: 짧게) vs **shortly** (부: 곧, 조만간)\n\n4. -ly로 끝나지만 '형용사'인 단어들\n- 명사 + -ly = 형용사: friendly (친근한), lovely (사랑스러운), costly (비싼), lonely (외로운)",
+    "title": "04. 형용사와 부사: 수식 대상의 구분 및 주의할 어휘 형태",
+    "formula": "형용사: 명사 수식 & 보어(C) 역할 / 부사: 동사·형용사·부사·문장 전체 수식",
+    "explanation": "1. 형용사 (Adjective)\n- 명사의 모양, 상태, 성질을 꾸며주거나(~한), 보어(C) 자리에 들어가 주어나 목적어의 상태를 설명합니다.\n- 형용사는 동사, 형용사, 부사를 꾸밀 수 없습니다.\n\n2. 부사 (Adverb)\n- 명사를 제외한 나머지(동사, 형용사, 다른 부사, 문장 전체)를 꾸며줍니다.\n- 부사는 절대로 보어 자리에 들어갈 수 없습니다.\n\n3. 주의해야 할 형태 및 의미 변화 어휘\n- **hard**: [형] 어려운, 단단한 / [부] 열심히 ↔ **hardly**: [부] 거의 ~않다\n- **late**: [형] 늦은 / [부] 늦게 ↔ **lately**: [부] 최근에\n- **high**: [형] 높은 / [부] 높게 ↔ **highly**: [부] 매우, 대단히\n- **near**: [형] 가까운 / [부] 가까이 ↔ **nearly**: [부] 거의\n- **short**: [형] 짧은 / [부] 짧게 ↔ **shortly**: [부] 곧, 조만간\n\n4. -ly로 끝나지만 '형용사'인 단어들\n- `명사 + -ly`는 형용사입니다: friendly(친근한), lovely(사랑스러운), costly(비싼), lonely(외로운)",
     "examples": [
-      "[형용사 수식] She is a careful driver.",
-      "[부사 수식] She drives the car carefully.",
-      "[의미 변화] He studied hard for the test. (그는 열심히 공부했다)",
-      "[의미 변화] He hardly studied for the test. (그는 공부를 거의 안 했다)",
-      "[형용사-ly] The local people were very friendly to us. (friendly는 형용사이므로 보어 가능)"
+      "[형용사] She is a careful driver.",
+      "[부사] She drives carefully.",
+      "[의미 변화 hard] He studied hard for the exam. (열심히 공부했다)",
+      "[의미 변화 hardly] He hardly studied for the exam. (공부를 거의 하지 않았다)",
+      "[의미 변화 high/highly] The bird flies high in the sky. (공간적으로 높게)",
+      "[의미 변화 high/highly] He is highly recommended for the job. (매우 추천받는)",
+      "[형용사 -ly] The staff members were very friendly. (friendly는 형용사 보어)"
     ],
-    "tips": "💡 [Teacher's Secret Note]\n'High'는 위치적/공간적으로 높게 날거나 올라갈 때 쓰고, 'Highly'는 평가나 정도가 '매우/대단히' 높을 때 씁니다. (예: jump high / highly recommended)"
+    "tips": "💡 [Teacher's Secret Note]\n'Substantial(형용사)'은 명사를 꾸미고(a substantial increase), 'Substantially(부사)'는 동사나 형용사를 꾸밉니다(increased substantially)."
   },
   {
     "category": "PART 1. 품사의 기초 및 문장 성분",
-    "title": "05. 전치사 (Preposition): 시간·장소·기간의 미세한 차이",
-    "formula": "전치사 + 명사(구) / 목적격 대명사",
-    "explanation": "전치사는 명사나 대명사 앞에 위치하여 시간, 장소, 방향, 원인, 수단 등의 관계를 정밀하게 표현합니다.\n\n1. 시간 전치사 3총사 (at vs on vs in)\n- **at**: 좁고 구체적인 '점'의 시각 (at 7:30, at noon, at midnight)\n- **on**: 특정한 '날짜, 요일, 특별한 날' (on Monday, on May 5th, on my birthday)\n- **in**: 긴 시간의 구범인 '월, 계절, 연도, 세기' (in May, in summer, in 2026, in the 21st century)\n\n2. 기간 표현 전치사/접속사 완벽 구별 (for vs during vs while)\n- **for + 숫자가 포함된 기간**: 지속된 시간의 양을 나타냄 (for 3 weeks, for ten years)\n- **during + 특정 명사/행사**: 그 사건이 일어난 때를 나타냄 (during the vacation, during the concert)\n- **while + 주어 + 동사**: 접속사이므로 뒤에 절이 옴 (while I was sleeping)\n\n3. 위치/장소 전치사 (at vs on vs in)\n- at: 구체적인 지점 (at the bus stop, at the entrance)\n- on: 접촉해 있는 표면 위 (on the wall, on the desk)\n- in: 경계가 있는 공간 내부 (in the room, in Seoul, in the box)",
+    "title": "05. 전치사: 시간·장소·기간의 구분 및 필수 전치사구",
+    "formula": "전치사 + 명사(구) / 목적격 대명사 / 동명사(-ing)",
+    "explanation": "전치사는 명사나 대명사 앞에 붙어 시간, 장소, 방향, 원인, 수단 등의 관계를 나타냅니다.\n\n1. 시간 전치사 (at vs on vs in)\n- **at**: 구체적인 시각 및 점의 시점 (at 8:30, at noon)\n- **on**: 특정한 날짜, 요일, 특별한 날 (on Monday, on May 5th, on my birthday)\n- **in**: 긴 기간인 월, 계절, 연도, 세기 (in May, in summer, in 2026)\n\n2. 기간 표현 (for vs during vs while)\n- **for + 숫자 기간**: 지속된 시간의 양 (for 3 weeks, for 10 years)\n- **during + 특정 사건/명사**: 해당 사건이 일어난 때 (during the vacation, during the concert)\n- **while + 주어 + 동사**: 접속사이므로 뒤에 문장이 옴 (while I was sleeping)\n\n3. 완료 vs 계속 (by vs until)\n- **by (~까지 완료)**: 동작이 특정 시점까지 완료되어야 함 (submit the report by Friday)\n- **until (~까지 계속)**: 상태나 동작이 특정 시점까지 계속 유지됨 (stay here until Friday)",
     "examples": [
-      "[시간 전치사] The meeting starts at 9:00 on Monday in May.",
-      "[for vs during] I stayed in London for 2 weeks during my winter break.",
+      "[시간 전치사] The meeting starts at 9:00 AM on Monday in May.",
+      "[for vs during] I stayed in Paris for 2 weeks during my vacation.",
       "[during vs while] She called me during the movie.",
       "[during vs while] She called me while I was watching the movie.",
-      "[장소 전치사] There is a painting on the wall in my room."
+      "[by vs until] You must return the book by next Monday. (반납 완료)",
+      "[by vs until] The bank will remain open until 4 PM. (영업 계속)"
     ],
-    "tips": "💡 [Teacher's Secret Note]\nby vs until 구별법!\n- by: '~까지' 동작을 완료해야 하는 기한 (submit the paper by Friday - 금요일까지 제출 완료)\n- until: '~까지' 상태나 동작을 계속 유지함 (stay here until Friday - 금요일까지 계속 머무름)"
+    "tips": "💡 [Teacher's Secret Note]\n필수 전치사구 묶음:\n- because of / due to / owing to + 명사 (~ 때문에)\n- despite / in spite of + 명사 (~에도 불구하고)\n- instead of + 명사 (~ 대신에)"
   },
   {
     "category": "PART 1. 품사의 기초 및 문장 성분",
-    "title": "06. 수식어 및 수식어구 (Modifiers): 구문 독해의 핵심 거품 제거",
-    "formula": "수식어(M) = 주어·동사·목적어·보어를 꾸며주는 부속 요소 (괄호 처리 대상)",
-    "explanation": "수식어(Modifier)는 문장의 필수 뼈대(S, V, O, C)는 아니지만, 대상의 상태, 상황, 장소, 이유 등을 풍부하게 설명해 줍니다. 긴 문장을 한눈에 파악하려면 수식어를 지워내는 '거품 제거' 능력이 필수입니다.\n\n1. 형용사적 수식어구 (명사를 꾸밈)\n- 단어 형용사: a [tall] man\n- 전치사구: the man [in the navy suit]\n- to부정사구: the man [to meet today]\n- 분사구: the man [standing over there]\n- 관계사절: the man [whom I talked about yesterday]\n\n2. 부사적 수식어구 (동사/형용사/문장 전체를 꾸밈)\n- 부사: run [fast]\n- 전치사구: study [in the quiet library]\n- to부정사 부사적 용법: work hard [to pass the exam]\n- 부사절: call me [when you arrive at the station]",
+    "title": "06. 수식어구: 수식 요소의 종류와 문장 구조 분석",
+    "formula": "수식어(M) = 주어, 동사, 목적어, 보어를 꾸며주는 부속 성분",
+    "explanation": "수식어(Modifier)는 문장의 필수 뼈대 성분(S, V, O, C)은 아니지만, 대상을 구체적이고 풍부하게 설명해 줍니다. 긴 문장을 한눈에 파악하려면 수식어를 구분해 내는 것이 중요합니다.\n\n1. 형용사적 수식어구 (명사 수식)\n- 단어 형용사: a [smart] student\n- 전치사구: the book [on the desk]\n- to부정사구: time [to leave]\n- 분사구: the boy [running in the park] / the car [repaired yesterday]\n- 관계사절: the doctor [who treated me]\n\n2. 부사적 수식어구 (동사·형용사·부사·문장 전체 수식)\n- 부사: run [fast]\n- 전치사구: study [in the library] [at night]\n- to부정사 부사적 용법: study hard [to pass the test]\n- 부사절: call me [when you arrive]\n\n3. 문장 구조 분석 3단계\n- 1단계: 전치사구를 괄호 `[ ]`로 묶습니다.\n- 2단계: 명사 뒤의 분사구와 to부정사구를 괄호 `[ ]`로 묶습니다.\n- 3단계: 관계사절을 괄호 `[ ]`로 묶어 지워내면 문장의 진짜 주어(S)와 동사(V)가 나타납니다.",
     "examples": [
-      "[뼈대 문장] The student passed the exam.",
-      "[수식어구 대폭 확장] The student [in my English class] [who studied diligently every night] [easily] passed the [extremely challenging] exam [prepared by the professor]."
+      "[뼈대 문장] The teacher praised the student.",
+      "[수식어구 추가] The teacher [in our school] praised the student [in my class].",
+      "[수식어구 확장] The teacher [teaching math in our school] praised the student [working hard in my class].",
+      "[수식어구 극대화] The professor [who wrote many books] warmly praised the student [standing on the stage] [who won the competition]."
     ],
-    "tips": "💡 [Teacher's Secret Note]\n수능 영어 독해 지문에서 한 문장이 3~4줄 이상 길어지는 이유는 90% 수식어구 때문입니다. [전치사구], [분사구], [관계사절]을 괄호 치고 주어(S)와 동사(V)를 찾는 연습을 매일 하세요!"
+    "tips": "💡 [Teacher's Secret Note]\n'The key to solving these problems [is / are] clear'에서 problems에 속지 마세요. [to solving these problems]를 괄호 치면 주어는 The key이므로 동사는 **is**가 됩니다."
   },
-
   {
     "category": "PART 2. 문장의 형식 (1~5형식)",
-    "title": "07. 문장의 5가지 형식 개요 & 2형식 감각동사의 보어 원칙",
+    "title": "07. 문장의 5가지 형식 및 2형식 감각동사의 보어 원칙",
     "formula": "1형식(SV) / 2형식(SVC) / 3형식(SVO) / 4형식(SVOO) / 5형식(SVOC)",
-    "explanation": "영어의 모든 문장은 단어들이 나열되는 구조에 따라 5가지 형식으로 분류됩니다.\n\n1. 2형식 문장과 감각동사 (Sensory Verbs)\n- 2형식 구조: 주어 + 동사 + 주격 보어(C)\n- 감각동사 종류: look (~하게 보이다), sound (~하게 들리다), smell (~한 냄새가 나다), taste (~한 맛이 나다), feel (~하게 느껴지다)\n- [핵심 문법 규칙] 감각동사 바로 뒤에는 주어의 상태를 설명하는 **'형용사 보어'**가 들어와야 합니다.\n- 우리말 해석이 '~하게(부사)'처럼 되더라도, 영문법 규칙상 부사(-ly)는 절대로 보어로 쓸 수 없습니다.\n- 명사를 바로 붙이고 싶다면 반드시 **'like + 명사'** 구조를 취해야 합니다.\n\n2. 4형식(간접목적어+직접목적어) ➡️ 3형식 전환 시 전치사 선택 규칙\n- 간접목적어(~에게)와 직접목적어(~을/를)의 위치를 바꾸면 3형식이 되며, 사이에 전치사가 들어갑니다.\n- **to**를 쓰는 동사 (주고받는 전달): give, send, bring, show, teach, write, hand, pass\n- **for**를 쓰는 동사 (정성과 노력이 들어감): buy, make, cook, get, find, choose\n- **of**를 쓰는 동사: ask, inquire",
+    "explanation": "1. 문장의 5가지 형식\n- 1형식 (S + V): 주어와 자동사로 문장 완결 (Birds fly.)\n- 2형식 (S + V + C): 주어를 보충 설명하는 주격 보어(C) 필요 (She is a teacher.)\n- 3형식 (S + V + O): 동사의 대상인 목적어(O)를 취함 (I love music.)\n- 4형식 (S + V + I.O + D.O): '~에게', '~을/를' 목적어 2개 (He gave me a book.)\n- 5형식 (S + V + O + O.C): 목적어를 보충 설명하는 목적격 보어(O.C) 필요 (You make me happy.)\n\n2. 2형식 감각동사 (Sensory Verbs)\n- 종류: look (~하게 보이다), sound (~하게 들리다), smell (~한 냄새가 나다), taste (~한 맛이 나다), feel (~하게 느껴지다)\n- 감각동사 뒤에는 주어의 상태를 설명하는 **형용사 보어**가 와야 합니다.\n- 우리말 해석이 '~하게(부사)'처럼 되더라도 절대로 부사(-ly)를 쓸 수 없습니다.\n- 뒤에 명사를 오게 하고 싶다면 반드시 **'like + 명사'** 형태로 써야 합니다.\n\n3. 4형식 ➡️ 3형식 전환 시 전치사 선택\n- **to**: give, send, bring, show, teach, write, pass\n- **for**: buy, make, cook, get, find, prepare\n- **of**: ask",
     "examples": [
-      "[2형식 감각동사 정답] The freshly baked bread smells delicious. (delicious - 형용사)",
-      "[2형식 감각동사 오답] The freshly baked bread smells deliciously. (X - 부사 사용 불가)",
-      "[2형식 명사 연결] Her voice sounds like an angel.",
-      "[4형식 ➡️ 3형식 (to)] She gave me a gift. ➡️ She gave a gift to me.",
-      "[4형식 ➡️ 3형식 (for)] My mom cooked me dinner. ➡️ My mom cooked dinner for me."
+      "[감각동사 정답] The pizza tastes delicious. (delicious - 형용사)",
+      "[감각동사 오답] The pizza tastes deliciously. (X - 부사 불가)",
+      "[명사 연결] Her voice sounds like an angel.",
+      "[4형식 ➡️ 3형식 to] He sent me a letter. ➡️ He sent a letter to me.",
+      "[4형식 ➡️ 3형식 for] She bought me a jacket. ➡️ She bought a jacket for me."
     ],
-    "tips": "💡 [Teacher's Secret Note]\n'You look prettily today'는 틀린 문장입니다! prettily를 pretty로 고쳐야 합니다. '보어 자리는 형용사의 구역'임을 절대 잊지 마세요!"
+    "tips": "💡 [Teacher's Secret Note]\n상태유지동사(keep, remain, stay)와 상태변화동사(become, turn, grow, get) 역시 뒤에 형용사 보어를 취합니다. (keep silent, turn red)"
   },
   {
     "category": "PART 2. 문장의 형식 (1~5형식)",
-    "title": "08. 5형식 심화: 사역동사 & 지각동사 & 준사역동사의 목적격 보어 변형",
-    "formula": "사역(make/have/let) + O + 동사원형(능동) or p.p.(수동) / 지각 + O + 원형or-ing(능동) or p.p.(수동)",
-    "explanation": "5형식(주어 + 동사 + 목적어 + 목적격 보어)에서 목적어(O)와 목적격 보어(O.C)의 관계를 파악하는 것이 문법의 꽃입니다.\n\n1. 사역동사 (make, have, let)\n- 목적어에게 어떠한 동작을 하도록 시키거나 만드는 동사입니다.\n- **능동 관계** (목적어가 직접 행동함) ➡️ 보어 자리에 **'동사원형(원형부정사)'** 사용\n- **수동 관계** (목적어가 행동을 당함) ➡️ 보어 자리에 **'과거분사(p.p.)'** 사용\n\n2. 지각동사 (see, hear, watch, listen to, feel, notice)\n- 목적어가 동작하는 것을 신체 오감으로 느낄 때 쓰입니다.\n- **능동 관계** ➡️ 보어 자리에 **'동사원형'** 또는 생생한 진행감을 살린 **'현재분사(-ing)'** 사용\n- **수동 관계** ➡️ 보어 자리에 **'과거분사(p.p.)'** 사용\n\n3. 준사역동사 (help, get)\n- **help** + O + **(to) V** : 목적격 보어로 동사원형과 to부정사 둘 다 올 수 있음\n- **get** + O + **to V** : '~하게 시키다'라는 사역의 의미지만 능동일 때 반드시 **to부정사**를 씀",
+    "title": "08. 5형식 심화: 사역동사·지각동사·준사역동사와 목적격 보어",
+    "formula": "사역(make/have/let) + O + 원형(능동) / p.p.(수동) | 지각 + O + 원형/-ing(능동) / p.p.(수동)",
+    "explanation": "5형식(`S + V + O + O.C`)에서는 목적어(O)와 목적격 보어(O.C) 사이의 능동/수동 관계에 따라 보어 형태가 결정됩니다.\n\n1. 사역동사 (make, have, let: ~하게 시키다, 만들다)\n- 능동 관계 (목적어가 직접 행동) ➡️ 보어 자리에 **동사원형** 사용\n- 수동 관계 (목적어가 행동을 당함) ➡️ 보어 자리에 **과거분사 (p.p.)** 사용\n\n2. 지각동사 (see, hear, watch, listen to, feel, notice: 오감으로 느끼다)\n- 능동 관계 ➡️ 보어 자리에 **동사원형** 또는 진행을 강조하는 **현재분사 (-ing)** 사용\n- 수동 관계 ➡️ 보어 자리에 **과거분사 (p.p.)** 사용\n\n3. 준사역동사 (help, get)\n- **help**: 목적격 보어로 **동사원형**과 **to부정사** 둘 다 가능 (help + O + do / to do)\n- **get**: 사역의 의미지만 능동 관계일 때 보어 자리에 **to부정사** 사용 (get + O + to do)\n\n4. 목적격 보어로 to부정사를 취하는 주요 5형식 동사\n- want, expect, allow, enable, cause, encourage, advise, order, require, persuade, ask + O + **to V**",
     "examples": [
-      "[사역 능동] My mom made me clean my room. (내가 직접 청소하므로 clean)",
-      "[사역 수동] I had my phone repaired yesterday. (핸드폰은 수리되는 대상이므로 repaired)",
-      "[지각 능동] I saw her cross the street. / I saw her crossing the street.",
-      "[지각 수동] I heard my name called in the distance. (내 이름은 불려지는 것이므로 called)",
-      "[준사역 get] She got her brother to fix the computer. (get은 to부정사 사용)"
+      "[사역 능동] My mom made me clean my room.",
+      "[사역 수동] I had my phone repaired yesterday. (핸드폰이 수리되므로 repaired)",
+      "[지각 능동] I saw her dance on the stage. / I saw her dancing on the stage.",
+      "[지각 수동] I heard my name called from behind.",
+      "[준사역 help] He helped me [to] solve the problem.",
+      "[준사역 get] I got him to fix my computer.",
+      "[일반 5형식] The rain caused the river to overflow."
     ],
-    "tips": "💡 [Teacher's Secret Note]\n사역동사 문장이 수동태로 변환될 때의 함정!\n- 능동: She made me clean the room.\n- 수동: I was made **to clean** the room by her. (사역동사의 원형보어 clean이 수동태가 되면 to clean으로 변형됩니다!)"
-  },
-
-  {
-    "category": "PART 3. 시제, 수동태, 조동사",
-    "title": "09. 시제 (Tenses): 현재완료의 4가지 용법과 과거완료(대과거)",
-    "formula": "현재완료: have/has + p.p. / 과거완료: had + p.p.",
-    "explanation": "시제는 동작이나 상태가 일어난 시점을 나타내며, 특히 완료 시제는 두 시점 사이의 연관성을 표현합니다.\n\n1. 현재완료 (have/has p.p.)\n- 과거의 특정 시점에 일어난 일이 **현재까지 영향을 주거나 상태가 계속될 때** 쓰입니다.\n- ① **완료**: 과거에 시작된 일이 막 완료됨 (짝꿍: just, already, yet)\n- ② **경험**: 과거부터 지금까지의 경험 (짝꿍: ever, never, before, ~times)\n- ③ **계속**: 과거부터 현재까지 계속해 옴 (짝꿍: for + 기간, since + 과거시점)\n- ④ **결과**: 과거의 행동 결과가 현재까지 유지됨 (lost, gone)\n\n2. 과거완료 및 대과거 (had p.p.)\n- 과거의 어떤 기준 시점보다 **더 이전 과거(대과거)**에 발생한 일을 명확히 구분해 주고자 할 때 씁니다.\n\n3. 절대적 시제 규칙 (★시험 출제 1순위)\n- ago, yesterday, last week, in 2020, when처럼 **명확한 과거 시점을 나타내는 어휘**와는 현재완료(have p.p.)를 절대로 함께 쓸 수 없습니다!",
-    "examples": [
-      "[현재완료-계속] She has lived in Seoul since 2015. (2015년부터 지금까지 살고 있음)",
-      "[현재완료-결과] He has lost his wallet. (과거에 지갑을 잃어버려서 지금도 없음)",
-      "[과거 시점 오류] I have met him yesterday. (X) ➡️ I met him yesterday. (O)",
-      "[과거완료-대과거] When I arrived at the station, the train had already left. (도착한 과거보다 기차가 떠난 게 더 이전)",
-      "[현재완료 vs 단순과거] I lost my key. (과거에 잃어버림, 지금 찾았는지 모름) vs I have lost my key. (지금도 없음)"
-    ],
-    "tips": "💡 [Teacher's Secret Note]\nHave been to vs Have gone to 구분법!\n- She has been to Paris: 파리에 갔다 온 적이 있다 (경험)\n- She has gone to Paris: 파리로 떠나고 여기 없다 (결과 - 따라서 1, 2인칭 I, You에는 사용 불가!)"
+    "tips": "💡 [Teacher's Secret Note]\n사역동사가 수동태로 바뀔 때 형태 변화 주의!\n- 능동태: She made me clean the room.\n- 수동태: I was made **to clean** the room by her. (원형보어 clean이 수동태에서는 to clean으로 바뀝니다.)"
   },
   {
     "category": "PART 3. 시제, 수동태, 조동사",
-    "title": "10. 수동태 (Passive Voice)의 주요 문형과 수동태 불가 자동사",
-    "formula": "be + p.p. (+ by 행위자)",
-    "explanation": "수동태는 주어가 동작을 직접 하는 주체가 아니라, 동작의 영향을 직접 받는 대상일 때 사용합니다.\n\n1. 주요 문형별 수동태 변환\n- **3형식 수동태**: S + V + O ➡️ O + be p.p. + by S\n- **4형식 수동태**: 목적어가 2개(IO, DO)이므로 수동태 문장도 2개 가능합니다.\n- **5형식 수동태**: 목적격 보어는 be p.p. 뒤에 그대로 내려옵니다. (단, 사역/지각동사의 동사원형 보어는 to부정사로 변환)\n\n2. 절대로 수동태로 쓸 수 없는 자동사 (★수능/내신 단골 출제)\n- 수동태는 '목적어'를 주어로 끌어오는 문법이므로, 목적어가 없는 **자동사는 수동태(be p.p.) 자체가 불가능**합니다.\n- **시험에 나오는 대표 수동 불가 동사**:\n  - disappear (사라지다), appear (나타나다)\n  - happen / occur / take place (일어나다, 발생하다)\n  - remain (남아있다)\n  - consist of (~로 구성되다)",
+    "title": "09. 시제: 현재완료의 4가지 용법, 과거완료 및 시제 예외 법칙",
+    "formula": "현재완료: have/has + p.p. / 과거완료(대과거): had + p.p.",
+    "explanation": "1. 현재완료 (have/has + p.p.)\n- 과거에 일어난 일이 현재까지 연관성을 가지고 영향을 미칠 때 씁니다.\n- **완료**: 과거에 시작된 일이 막 완료됨 (짝꿍: just, already, yet)\n- **경험**: 과거부터 지금까지의 경험 (짝꿍: ever, never, before, ~times)\n- **계속**: 과거의 상태나 동작이 현재까지 계속됨 (짝꿍: for + 기간, since + 시점)\n- **결과**: 과거 동작의 결과가 현재까지 유지됨 (lost, gone)\n\n2. 과거완료 및 대과거 (had + p.p.)\n- 과거의 기준 시점보다 더 일찍 일어난 대과거의 사건을 나타낼 때 씁니다.\n\n3. 시제 출제 핵심 규칙\n- **규칙 1**: ago, yesterday, last week, in 2020, when 등 명확한 과거 시점 어휘와는 현재완료를 쓸 수 없으며 단순 과거 시제만 써야 합니다.\n- **규칙 2**: 과학적 진리, 일반적 사실, 속담은 주절 시제와 상관없이 항상 현재시제를 씁니다.",
     "examples": [
-      "[3형식 수동] The glass was broken by Tom.",
-      "[5형식 수동] He was made to study hard by his parents.",
-      "[수동 불가 오답] The car accident was happened yesterday. (X) ➡️ The car accident happened yesterday. (O)",
-      "[수동 불가 오답] The dinosaur was disappeared long ago. (X) ➡️ The dinosaur disappeared long ago. (O)",
-      "[수동 불가 오답] The team is consisted of 11 players. (X) ➡️ The team consists of 11 players. (O)"
+      "[현재완료-완료] I have just finished my homework.",
+      "[현재완료-경험] Have you ever visited New York?",
+      "[현재완료-계속] She has lived in Seoul since 2020.",
+      "[과거 시점 어휘 오류] I have met him yesterday. (X) -> I met him yesterday. (O)",
+      "[대과거] When I arrived at the station, the train had already left.",
+      "[불변의 진리] He taught us that the earth goes round the sun."
     ],
-    "tips": "💡 [Teacher's Secret Note]\nconsist of는 우리말 해석이 '~로 구성되다'라서 수동태(is consisted of)로 착각하기 쉽지만, 자체에 수동의 의미가 들어있는 완벽한 자동사이므로 무조건 능동 형태로만 써야 합니다."
+    "tips": "💡 [Teacher's Secret Note]\n- **have been to + 장소**: ~에 가본 적이 있다 (경험) / ~에 다녀왔다 (완료)\n- **have gone to + 장소**: ~로 떠나고 여기 없다 (결과 - 1, 2인칭 주어 I, You 사용 불가)"
   },
   {
     "category": "PART 3. 시제, 수동태, 조동사",
-    "title": "11. 조동사 (Modal Verbs) & 과거 사실에 대한 추측과 후회 (조동사 + have p.p.)",
+    "title": "10. 수동태: 문형별 변환과 수동태 불가능 자동사",
+    "formula": "be + p.p. (+ by + 행위자)",
+    "explanation": "수동태는 주어가 동작을 직접 수행하는 것이 아니라, 동작의 영향이나 결과를 당할 때 사용합니다.\n\n1. 문형별 수동태 변환\n- 3형식: `S + V + O` ➡️ `O + be p.p. + by S` (The window was broken by Tom.)\n- 4형식: 목적어가 2개이므로 수동태 문장도 2개 가능합니다.\n- 5형식: 목적격 보어(O.C)는 be p.p. 뒤에 그대로 내려옵니다. (단, 사역/지각동사의 원형보어는 **to부정사**로 변환)\n\n2. 수동태 불가능 자동사\n- 자동사(1, 2형식)는 목적어가 없으므로 수동태(`be p.p.`) 형태가 불가능합니다.\n- **사라지다/나타나다**: disappear, appear, emerge, vanish\n- **발생하다**: happen, occur, take place\n- **남아있다/존재하다**: remain, exist\n- **~로 구성되다**: consist of\n\n3. by 이외의 전치사를 사용하는 관용 수동태\n- be surprised at (~에 놀라다), be satisfied with (~에 만족하다), be interested in (~에 관심이 있다), be covered with (~로 덮여 있다), be filled with (~로 가득 차 있다)",
+    "examples": [
+      "[4형식 수동태] I was given a book by my friend. / A book was given to me by my friend.",
+      "[5형식 사역 수동태] He was made **to work** hard by his boss.",
+      "[수동 불가 오답] The accident was happened yesterday. (X) -> The accident happened yesterday. (O)",
+      "[수동 불가 오답] The dinosaur was disappeared long ago. (X) -> The dinosaur disappeared long ago. (O)",
+      "[수동 불가 consist of] Water consists of hydrogen and oxygen. (is consisted of (X))"
+    ],
+    "tips": "💡 [Teacher's Secret Note]\nconsist of는 '~로 구성되다'로 해석되어 수동태처럼 느껴지지만 자동사이므로 무조건 능동형으로만 써야 합니다."
+  },
+  {
+    "category": "PART 3. 시제, 수동태, 조동사",
+    "title": "11. 조동사: 세부 의미 및 과거 추측과 후회 (조동사 + have p.p.)",
     "formula": "조동사 + 동사원형 / 조동사 + have p.p.",
-    "explanation": "조동사는 동사 원형 앞에 붙어 화자의 태도, 가능성, 의무, 추측 등의 의미를 더해줍니다.\n\n1. 주요 기본 조동사\n- must (~해야 한다 [의무] / ~임에 틀림없다 [확실한 추측])\n- should (~해야 한다 [당연, 권고])\n- may / might (~해도 된다 [허락] / ~일지도 모른다 [약한 추측])\n- cannot (~할 수 없다 [불가능] / ~일 리가 없다 [강한 부정 추측])\n\n2. 과거 사실에 대한 추측 및 후회 구문 (★수능 빈출 핵심)\n조동사 뒤에 `have p.p.`가 붙으면 시점이 **과거**로 후퇴합니다.\n- **must have p.p.**: ~했음에 틀림없다 (과거에 대한 확실한 긍정 추측)\n- **cannot have p.p.**: ~했을 리가 없다 (과거에 대한 확실한 부정 추측)\n- **may / might have p.p.**: ~했을지도 모른다 (과거에 대한 약한 추측)\n- **should have p.p.**: ~했어야 했는데 안 했다 (과거에 대한 후회 및 유감)\n- **should not have p.p.**: ~하지 말았어야 했는데 했다 (과거에 대한 후회)",
+    "explanation": "조동사는 본동사 앞에 붙어 가능성, 의무, 추측, 능력 등의 의미를 더해줍니다.\n\n1. 주요 기본 조동사의 의미\n- **must**: ~해야 한다 (의무) / ~임에 틀림없다 (확실한 긍정 추측)\n- **should**: ~해야 한다 (당연, 권고)\n- **may / might**: ~해도 된다 (허락) / ~일지도 모른다 (약한 긍정 추측)\n- **cannot**: ~할 수 없다 (불가능) / ~일 리가 없다 (확실한 부정 추측)\n- **used to + 동사원형**: ~하곤 했다 (과거의 규칙적 습관 및 상태)\n\n2. 과거 사실에 대한 추측 및 후회 (`조동사 + have p.p.`)\n조동사 뒤에 `have p.p.`가 붙으면 시점이 과거로 후퇴합니다.\n- **must have p.p.**: ~했음에 틀림없다 (과거의 강한 긍정 추측)\n- **cannot have p.p.**: ~했을 리가 없다 (과거의 강한 부정 추측)\n- **may / might have p.p.**: ~했을지도 모른다 (과거의 약한 추측)\n- **should have p.p.**: ~했어야 했는데 안 했다 (과거 행동에 대한 후회)\n- **should not have p.p.**: ~하지 말았어야 했는데 했다 (과거 행동에 대한 후회)",
     "examples": [
-      "[과거 확실 추측] She must have been sick yesterday because she was absent. (그녀는 어제 아팠던 것이 틀림없다)",
-      "[과거 부정 추측] He cannot have stolen the necklace; he was with me. (그가 목걸이를 훔쳤을 리가 없다)",
-      "[과거 약한 추측] It might have rained last night. (어젯밤에 비가 왔을지도 모른다)",
-      "[과거 후회/유감] I should have studied harder for the final exam. (기말공부를 더 열심히 했어야 했는데!)"
+      "[현재 추측] He must be rich because he drives a supercar.",
+      "[과거 확실 추측] She must have been sick yesterday because she was absent.",
+      "[과거 부정 추측] He cannot have stolen the money; he was with me.",
+      "[과거 후회] I should have studied harder for the exam. (공부했어야 했는데!)",
+      "[과거 후회 부정] I should not have eaten so much late at night. (먹지 말았어야 했는데!)",
+      "[used to vs be used to] I used to live in Seoul. (살았었다) vs I am used to living in Seoul. (사는 것에 익숙하다)"
     ],
-    "tips": "💡 [Teacher's Secret Note]\n'Must have p.p.(~했음에 틀림없다)'의 반대말은 'Must not have p.p.'가 아니라 **'Cannot have p.p.(~했을 리가 없다)'**라는 점을 꼭 기억하세요!"
-  },
-
-  {
-    "category": "PART 4. 준동사 (동사의 다양한 변신)",
-    "title": "12. to부정사 (to-Infinitive)의 용법별 상세 분류와 의미상 주어",
-    "formula": "to + 동사원형 (명사 / 형용사 / 부사 역할 수행)",
-    "explanation": "준동사란 동사의 성질을 유지하면서 문장 안에서 다른 품사(명사, 형용사, 부사)로 변신하는 구문입니다.\n\n1. 명사적 용법 (~하는 것, ~하기)\n- 문장의 주어, 목적어, 보어 자리에 들어갑니다.\n- 예: To master English takes time. / I want to learn Spanish.\n\n2. 형용사적 용법 (~할, ~하는)\n- 명사 바로 뒤에 위치하여 그 명사를 수식합니다.\n- [전치사 유실 주의] 자동사에서 유래한 형용사적 부정사는 뒤에 전치사를 빠뜨리면 오답입니다!\n  - a chair to sit on (sit on a chair) / a house to live in (live in a house) / a pen to write with\n\n3. 부사적 용법\n- 목적 (~하기 위해): He studied hard to pass the exam.\n- 감정의 원인 (~해서): I am glad to meet you.\n- 형용사 수식 (~하기에): This problem is easy to solve.\n- 결과 (결국 ~하게 되다): He grew up to be a doctor.\n\n4. to부정사의 의미상 주어\n- 일반적인 경우: **for + 목적격** (It is important for us to protect nature.)\n- 사람의 성격/태도 형용사 (kind, foolish, wise, polite, rude 등): **of + 목적격** (It is kind of you to help me.)",
-    "examples": [
-      "[명사적] To read good books expands your mind.",
-      "[형용사적 전치사] Do you have any paper to write on? (write on paper)",
-      "[부사적-결과] My grandfather lived to be 90 years old. (할아버지는 살아나서 90세가 되셨다)",
-      "[의미상 주어 for] It is difficult for beginners to learn golf.",
-      "[의미상 주어 of] It was foolish of him to make such a big mistake."
-    ],
-    "tips": "💡 [Teacher's Secret Note]\n'a friend to talk'는 틀린 표현입니다! 'talk with a friend' 구조이므로 반드시 'a friend to talk with'처럼 전치사 with를 붙여야 정답입니다."
+    "tips": "💡 [Teacher's Secret Note]\n- **used to + 동사원형**: ~하곤 했다 (과거 습관)\n- **be used to + 동사원형**: ~하기 위해 사용되다 (수동태)\n- **be used to + -ing / 명사**: ~에 익숙하다"
   },
   {
     "category": "PART 4. 준동사 (동사의 다양한 변신)",
-    "title": "13. 동명사 (Gerund)와 목적어 선택 동사 및 관용 표현",
+    "title": "12. to부정사: 용법별 분류, 전치사 유실 주의, 의미상 주어",
+    "formula": "to + 동사원형 (명사 / 형용사 / 부사 역할)",
+    "explanation": "1. 명사적 용법 (~하는 것, ~하기)\n- 주어, 목적어, 보어 자리에 들어갑니다.\n- **가주어-진주어**: It is important to learn English.\n- **의문사 + to V**: what to do (무엇을 할지), where to go (어디로 갈지), how to solve (어떻게 풀지)\n\n2. 형용사적 용법 (~할, ~하는)\n- 명사 바로 뒤에서 꾸며줍니다.\n- [전치사 유실 주의] 자동사에서 유래한 to부정사는 전치사를 빠뜨리면 오답입니다.\n  - a chair to sit **on** / a house to live **in** / a pen to write **with** / a friend to talk **with**\n\n3. 부사적 용법\n- **목적 (~하기 위해)**: He studied hard in order to pass the exam.\n- **감정의 원인 (~해서)**: I am glad to meet you.\n- **형용사 수식 (~하기에)**: This book is easy to read.\n- **결과 (결국 ~하게 되다)**: He grew up to be a doctor.\n\n4. 의미상 주어\n- 일반적인 경우: **for + 목적격** (It is natural for us to make mistakes.)\n- 사람의 성품/태도 형용사 (kind, polite, foolish, wise 등): **of + 목적격** (It is kind of you to help me.)",
+    "examples": [
+      "[명사적 가주어] It is necessary for students to practice every day.",
+      "[의문사+to V] Please tell me how to reach the station.",
+      "[형용사적 전치사] I need a chair to sit on.",
+      "[부사적-목적] She saved money so as to buy a car.",
+      "[부사적-결과] He live to be 90 years old.",
+      "[의미상주어 of] It was foolish of him to make such a mistake."
+    ],
+    "tips": "💡 [Teacher's Secret Note]\n- **too ~ to V**: 너무 ~해서 ...할 수 없다 (= so ~ that ... cannot)\n- **형용사/부사 + enough + to V**: ...할 만큼 충분히 ~하다 (= so ~ that ... can)"
+  },
+  {
+    "category": "PART 4. 준동사 (동사의 다양한 변신)",
+    "title": "13. 동명사: 목적어 선택 동사, 의미 변화 동사, 전치사 to + -ing",
     "formula": "동사원형 + -ing (명사 역할: ~하기, ~하는 것)",
-    "explanation": "동명사는 동사 뒤에 -ing를 붙여 완전히 명사로 신분을 바꾼 구문입니다.\n\n1. to부정사 vs 동명사를 목적어로 취하는 동사 완전 정리\n- **to부정사만 목적어로 취함** (미래 지향적/지향성): want, hope, wish, expect, decide, plan, promise, agree, refuse\n- **동명사만 목적어로 취함** (과거·현재 지향적/회피·중단): enjoy, finish, avoid, give up, deny, postpone, mind, consider, stop\n\n2. 둘 다 취하지만 의미가 180도 달라지는 동사 (★시험 출제 1순위)\n- **remember / forget + to V**: (앞으로) ~할 것을 기억하다/잊다 ➡️ **미래**\n- **remember / forget + -ing**: (과거에) ~했던 것을 기억하다/잊다 ➡️ **과거**\n- **try + to V**: ~하려고 애쓰다, 노력하다 vs **try + -ing**: 시험 삼아 한 번 해보다\n- **stop + to V**: ~하기 위해 가던 길을 멈추다 (부사적 용법) vs **stop + -ing**: ~하던 행동을 그만두다 (동명사 목적어)\n\n3. 시험에 무조건 나오는 '전치사 to + -ing' 관용 표현 (동사원형 쓰면 감점)\n- look forward to -ing (~를 학수고대하다)\n- be used to -ing / be accustomed to -ing (~에 익숙하다)\n- object to -ing (~에 반대하다)\n- When it comes to -ing (~에 관한 한)",
+    "explanation": "동명사는 동사 뒤에 `-ing`를 붙여 명사 구실을 하도록 만든 구문입니다.\n\n1. 목적어 선택 동사\n- **to부정사만 목적어로 취함 (미래 지향적/희망/계획)**: want, hope, wish, expect, decide, plan, promise, agree, refuse\n- **동명사만 목적어로 취함 (과거·현재 지향적/회피/중단)**: enjoy, finish, avoid, give up, deny, mind, postpone, consider, suggest, stop\n\n2. 둘 다 취하지만 의미가 달라지는 동사\n- **remember / forget + to V**: (앞으로) ~해야 할 것을 기억하다/잊다 ➡️ 미래\n- **remember / forget + -ing**: (과거에) ~했던 것을 기억하다/잊다 ➡️ 과거\n- **try + to V**: ~하려고 애쓰다 vs **try + -ing**: 시험 삼아 해보다\n- **stop + to V**: ~하기 위해 멈추다 vs **stop + -ing**: 하던 동작을 중단하다\n\n3. 필수 '전치사 to + 동명사(-ing)' 관용 구문\n이 구문들의 `to`는 전치사이므로 뒤에 동사원형을 쓰면 안 되며 **동명사(-ing)**가 와야 합니다.\n- **look forward to -ing**: ~하기를 학수고대하다\n- **be used to -ing**: ~에 익숙하다\n- **object to -ing**: ~에 반대하다\n- **when it comes to -ing**: ~에 관한 한",
     "examples": [
       "[동명사 목적어] She suggested going to the park.",
-      "[remember 구분] Remember to lock the door when you leave. (앞으로 잠글 것)",
-      "[remember 구분] I remember locking the door this morning. (아침에 잠궜던 것)",
-      "[stop 구분] He stopped to smoke. (담배 피우려고 멈춤) vs He stopped smoking. (금연함)",
-      "[전치사 to 관용] I am really looking forward to seeing you again. (see (X))"
+      "[remember 미래] Remember to lock the door when you leave. (앞으로 잠글 것)",
+      "[remember 과거] I remember locking the door this morning. (잠궜던 것)",
+      "[stop 구분] He stopped to take a break. (쉬기 위해 멈춤)",
+      "[stop 구분] He stopped smoking. (금연함)",
+      "[전치사 to 관용] I am looking forward to meeting you soon.",
+      "[전치사 to 관용] They object to building a new factory here."
     ],
-    "tips": "💡 [Teacher's Secret Note]\nbe used to + 동사원형 = '~하기 위해 사용되다' (수동태)\nbe used to + -ing = '~에 익숙하다'\nused to + 동사원형 = '~하곤 했다' (과거의 습관)\n이 세 가지 유사 구문을 해석으로 반드시 구별해 내야 합니다!"
+    "tips": "💡 [Teacher's Secret Note]\n동명사의 의미상 주어는 원칙적으로 **소유격**을 쓰며, 목적어 자리나 구어체에서는 **목적격**도 허용됩니다. (I don't like his/him coming late.)"
   },
-
   {
     "category": "PART 5. 분사 및 분사구문",
-    "title": "14. 분사 (Participle)의 형용사 역할과 감정유발 분사",
+    "title": "14. 분사: 형용사적 수식 구조 및 감정유발분사의 구분",
     "formula": "현재분사 (v-ing: 능동/진행) vs 과거분사 (p.p.: 수동/완료)",
-    "explanation": "분사는 동사를 형용사 형태로 바꾸어 명사를 직접 꾸며주거나 보어로 사용하는 구문입니다.\n\n1. 현재분사(-ing) vs 과거분사(p.p.) 수식 원리\n- **현재분사 (-ing)**: 꾸밈을 받는 명사가 그 행동을 **직접 하는 능동**이거나 **진행 중**일 때\n  - a sleeping baby (자고 있는 아기), falling leaves (떨어지고 있는 단풍잎)\n- **과거분사 (p.p.)**: 꾸밈을 받는 명사가 그 행동을 **당하는 수동**이거나 **이미 완료**되었을 때\n  - a broken window (깨어진 창문), fallen leaves (이미 땅에 떨어진 낙엽)\n\n2. 감정 유발 분사 규칙 (★내신/수능 단골)\n사람이 주어라고 무조건 p.p.가 아니며, 핵심은 **'감정을 유발하느냐, 감정을 느끼느냐'**입니다.\n- **현재분사 (-ing)**: 감정을 **외부로 유발시키는** 원인일 때 (~하게 만드는)\n  - The soccer match was exciting. (축구 경기가 흥분을 유발함)\n- **과거분사 (p.p.)**: 감정을 **스스로 느끼는** 주체일 때 (~을 느끼는)\n  - The spectators were excited by the match. (관중들이 흥분을 느낌)",
+    "explanation": "분사는 동사 형태를 바꾸어 명사를 꾸미거나 보어로 쓰는 형용사 구문입니다.\n\n1. 현재분사(-ing) vs 과거분사(p.p.)\n- **현재분사 (-ing)**: 꾸밈을 받는 명사가 그 동작을 직접 수행하는 **능동**이거나 **진행 중**일 때\n  - a sleeping baby (자고 있는 아기), a girl dancing on the stage\n- **과거분사 (p.p.)**: 꾸밈을 받는 명사가 그 동작을 당하는 **수동**이거나 **완료**되었을 때\n  - a broken window (깨어진 창문), fallen leaves (낙엽)\n\n2. 감정 유발 분사 (Emotion-causing Participles)\n핵심은 **'감정을 유발하느냐, 감정을 느끼느냐'**입니다.\n- **현재분사 (-ing)**: 특정 감정을 외부로 유발시키는 원인일 때 (~하게 만드는)\n  - The movie was **boring**. (영화가 지루함을 유발함)\n- **과거분사 (p.p.)**: 특정 감정을 자신이 직접 느끼는 주체일 때 (~을 느끼는)\n  - The audience was **bored** by the movie. (청중이 지루함을 느낌)\n- 주요 어휘: exciting / excited, shocking / shocked, confusing / confused, disappointing / disappointed, satisfying / satisfied",
     "examples": [
-      "[명사 수식 능동/수동] Look at the rising sun. / Please send me the revised file.",
-      "[감정 분사] The news was shocking to everyone. (그 소식은 모든 이에게 충격을 주었다)",
-      "[감정 분사] Everyone was shocked at the news. (모두가 그 소식에 충격을 받았다)",
-      "[사람 -ing 예외] He is an interesting person. (그 사람은 남을 재미있게 해주는 흥미로운 사람이다)"
+      "[명사 수식] The boiling water spilled over.",
+      "[명사 수식] I received the file revised by the manager.",
+      "[감정 분사 원인] The news was deeply depressing.",
+      "[감정 분사 주체] Most people were depressed by the news.",
+      "[사람 주어 -ing] He is a very boring teacher. (지루함을 유발하는 사람)"
     ],
-    "tips": "💡 [Teacher's Secret Note]\n명사를 뒤에서 수식하는 분사 구문은 [명사 + (주격관계대명사 + be동사) + 분사]에서 관계대명사+be동사가 생략된 것으로 이해하면 쉬워집니다!\n- the girl [who is] dancing on the stage"
+    "tips": "💡 [Teacher's Secret Note]\n분사가 단독으로 명사를 꾸밀 때는 명사 **앞**에 위치하고(a sleeping baby), 뒤에 목적어나 부사구가 붙어 길어지면 명사 **뒤**에 위치합니다(a baby sleeping in the crib)."
   },
   {
     "category": "PART 5. 분사 및 분사구문",
-    "title": "15. 분사구문 (Participle Clause)의 전환 3단계와 수동/독립분사구문",
+    "title": "15. 분사구문: 전환 3단계, 수동·독립분사구문, with 부대상황",
     "formula": "접속사 + S1 + V1, S2 + V2 ➡️ V1-ing ~, S2 + V2",
-    "explanation": "분사구문은 접속사가 이끄는 길고 복잡한 부사절을 깔끔하고 짧게 줄여 쓴 구문입니다.\n\n1. 부사절을 분사구문으로 만드는 3단계 공식\n- **1단계**: 부사절의 접속사(when, because, if, although 등)를 생략합니다. (의미를 명확히 하고 싶다면 남겨둘 수도 있음)\n- **2단계**: 부사절의 주어(S1)와 주절의 주어(S2)가 같으면 S1을 생략합니다. (만약 다르면 S1을 남겨두어야 함 ➡️ **독립분사구문**)\n- **3단계**: 부사절의 동사(V1)를 **-ing** 형태로 만듭니다. (단, being이나 having been은 생략 가능)\n\n2. 수동 분사구문\n- 부사절이 수동태(be p.p.)였을 경우 `being p.p.`가 되는데, 이때 `being`이 생략되면서 문장이 **과거분사(p.p.)**로 바로 시작합니다.\n\n3. with + 목적어 + 분사 (부대상황 구문)\n- \"~가 ...한 채로\"라는 뜻으로 목적어와 분사의 관계가 능동이면 -ing, 수동이면 p.p.를 씁니다.\n  - with his eyes closed (눈은 감겨지는 것이므로 closed)\n  - with her dog running behind her (개는 스스로 뛰므로 running)",
+    "explanation": "분사구문은 접속사가 이끄는 긴 부사절을 분사(-ing)를 활용하여 간결하게 축약한 구문입니다.\n\n1. 부사절을 분사구문으로 바꾸는 3단계\n- **1단계**: 부사절의 접속사를 지웁니다. (의미 전달을 위해 남겨둘 수도 있음)\n- **2단계**: 부사절 주어(S1)와 주절 주어(S2)가 같으면 S1을 생략합니다. (다르면 남겨둠 ➡️ **독립분사구문**)\n- **3단계**: 부사절 동사(V1)를 `-ing` 형태로 바꿉니다.\n\n2. 수동 분사구문과 being 생략\n부사절이 수동태(`be p.p.`)였을 경우 `Being p.p.` 형태가 되며, 이때 **Being이 생략**되어 문장이 **과거분사(p.p.)**로 시작합니다.\n- As it was written in English, the book was easy. ➡️ `[Being] Written in English, the book was easy.`\n\n3. with + 목적어 + 분사 (부대상황 구문)\n\"~가 ...한 채로, ~가 ...하면서\"라는 뜻으로 목적어(O)와 분사의 관계가 **능동이면 -ing, 수동이면 p.p.**를 씁니다.\n- with his eyes **closed** (눈은 감겨지는 대상) / with her dog **running** behind her (개가 직접 뜀)",
     "examples": [
-      "[능동 분사구문] As I felt tired, I went to bed early. ➡️ Feeling tired, I went to bed early.",
-      "[수동 분사구문] As it was written in plain English, the book was easy to read. ➡️ [Being] Written in plain English, the book was easy to read.",
-      "[독립분사구문] As night came on, we decided to stop walking. ➡️ Night coming on, we decided to stop walking.",
-      "[with 부대상황] He sat on the bench with his arms folded. (팔짱을 낀 채로)"
+      "[기본 분사구문] Feeling tired, he went to bed early.",
+      "[접속사 명시] While driving down the road, she saw an accident.",
+      "[수동 분사구문] Seen from a distance, the rock looks like a face.",
+      "[독립분사구문] It being a rainy day, we stayed indoors.",
+      "[with 부대상황] He sat on the bench with his arms folded."
     ],
-    "tips": "💡 [Teacher's Secret Note]\n분사구문 시험 문제(-ing냐 p.p.냐)를 풀 때는, 주절의 주어를 가져와 분사 앞에 놓아보세요!\n주어가 그 행동을 직접 하면 **-ing**, 당하면 **p.p.**가 정답입니다."
-  },
-
-  {
-    "category": "PART 6. 절과 연결 (접속사 & 관계사)",
-    "title": "16. 접속사 (Conjunction): 상관접속사 수일치와 시제 대용 규칙",
-    "formula": "등이접속사 / 상관접속사 / 종속접속사 (시간·이유·조건·양보)",
-    "explanation": "접속사는 단어와 단어, 구와 구, 절과 절을 부드럽게 이어주는 징검다리입니다.\n\n1. 상관접속사와 동사의 수일치 (★시험 단골 규칙)\n- **both A and B**: 무조건 **복수 취급** (are/were)\n- **not only A but also B** (= B as well as A): **B**에 동사 수일치\n- **either A or B** (A나 B 둘 중 하나): **B**에 동사 수일치\n- **neither A nor B** (A도 B도 둘 다 아닌): **B**에 동사 수일치\n\n2. 접속사 vs 전치사 구별 (뒤에 문장이 오냐, 명사가 오냐)\n- 양보: **although / even though** (+ 주어+동사) vs **despite / in spite of** (+ 명사구)\n- 이유: **because / as / since** (+ 주어+동사) vs **because of / due to / owing to** (+ 명사구)\n\n3. 시간/조건 부사절에서의 시제 대용 원칙 (★수능 빈출)\n- 시간(when, as soon as, until)이나 조건(if, unless)을 나타내는 부사절 안에서는 **미래의 일이라도 미래시제(will)를 절대 쓰지 못하며, 현재시제가 미래를 대신합니다.**",
-    "examples": [
-      "[상관접속사 수일치] Not only you but also **he is** responsible for the failure. (B인 he에 수일치)",
-      "[as well as 수일치] He as well as you **is** happy. (앞에 있는 B인 He에 수일치)",
-      "[양보 접속사 vs 전치사] Although it rained heavily, we went outside. (접속사+절)",
-      "[양보 접속사 vs 전치사] Despite the heavy rain, we went outside. (전치사+명사)",
-      "[시간/조건 부사절 시제] If it rains tomorrow, I will stay at home. (will rain 쓰면 감점)"
-    ],
-    "tips": "💡 [Teacher's Secret Note]\n'If it will rain tomorrow'는 틀리지만, 'I don't know if it will rain tomorrow'는 맞습니다! 후자의 if는 조건절이 아니라 '~인지 아닌지'라는 뜻의 명사절이기 때문에 will을 정상적으로 사용합니다."
+    "tips": "💡 [Teacher's Secret Note]\n분사구문 문제 풀이 공식: 주절의 주어를 가져와 분사 앞에 놓았을 때 직접 동작을 하면 **-ing**, 당하면 **p.p.**가 정답입니다."
   },
   {
     "category": "PART 6. 절과 연결 (접속사 & 관계사)",
-    "title": "17. 명사절 & 부사절 (Noun & Adverbial Clauses)과 간접의문문 어순",
-    "formula": "명사절(that / whether / 의문사절) ➡️ 문장의 주어, 목적어, 보어 위치",
-    "explanation": "1. 명사절의 종류와 쓰임\n문장 전체가 명사 역할을 하여 주어(S), 목적어(O), 보어(C) 자리에 오는 절입니다.\n- **that절**: '~라는 사실' (확실한 내용일 때 사용)\n- **whether / if절**: '~인지 아닌지' (불확실한 의문 내용일 때 사용 / if절은 주어 자리 사용 불가)\n- **의문사절 (간접의문문)**: 의문사가 이끄는 절이 다른 문장의 일부로 들어간 구문\n\n2. 간접의문문 어순 규칙 (★내신/수능 필수)\n직접 물어보는 직접의문문(Where do you live?)과 달리, 간접의문문은 반드시 **[의문사 + 주어 + 동사]** 평서문 어순을 취해야 합니다.\n\n3. 생각/판단 동사가 쓰일 때의 의문사 튀어나감 현상\n- 메인 문장의 동사가 **think, believe, suppose, guess, imagine** 같은 생각/추측 동사일 때는 간접의문문의 의문사가 **문장 맨 앞으로 이동**합니다.\n  - Do you think + Who is he? ➡️ **Who** do you think he is?",
+    "title": "16. 접속사: 상관접속사 수일치, 접속사 vs 전치사, 시제 대용 법칙",
+    "formula": "등이접속사 / 상관접속사 / 종속접속사",
+    "explanation": "1. 상관접속사와 동사 수일치\n- **both A and B**: 무조건 **복수 동사** (are, were)\n- **not only A but also B** (= B as well as A): **B**에 수일치\n- **either A or B**: **B**에 수일치\n- **neither A nor B**: **B**에 수일치\n- **not A but B**: **B**에 수일치\n\n2. 접속사 vs 전치사 구분 (뒤에 절이 오느냐 명사가 오느냐)\n- **양보 (~에도 불구하고)**: `although / even though` (+ S + V) vs `despite / in spite of` (+ 명사구)\n- **이유 (~ 때문에)**: `because / as / since` (+ S + V) vs `because of / due to` (+ 명사구)\n\n3. 시간 및 조건 부사절에서의 시제 대용 원칙\n시간(when, as soon as, until)이나 조건(if, unless)을 나타내는 부사절 안에서는 **미래의 일이라도 미래시제(will)를 쓸 수 없으며, 현재시제가 미래를 대신합니다.**\n- If it **rains** [not will rain] tomorrow, I will stay home.",
+    "examples": [
+      "[상관접속사 수일치] Not only the students but also the teacher **is** excited. (teacher에 수일치)",
+      "[as well as 수일치] The teacher as well as the students **is** excited. (앞의 teacher에 수일치)",
+      "[neither 수일치] Neither my parents nor my brother **knows** the truth.",
+      "[양보 접속사] Although it rained, we went outside.",
+      "[양보 전치사] Despite the rain, we went outside.",
+      "[시제 대용] As soon as he **arrives** [not will arrive], he will call you."
+    ],
+    "tips": "💡 [Teacher's Secret Note]\nif가 '만약 ~라면' (조건 부사절)일 때는 will을 못 쓰지만, '~인지 아닌지' (명사절 - know, wonder의 목적어)일 때는 내일 일에 정상적으로 **will**을 씁니다."
+  },
+  {
+    "category": "PART 6. 절과 연결 (접속사 & 관계사)",
+    "title": "17. 명사절과 부사절: 명사절의 종류 및 간접의문문 어순",
+    "formula": "명사절(that / whether / 의문사절) ➡️ 주어(S), 목적어(O), 보어(C) 위치",
+    "explanation": "1. 명사절의 종류\n- **that절**: '~라는 사실' (확실하고 정해진 내용)\n- **whether / if절**: '~인지 아닌지' (불확실한 의문 내용 / if절은 주어 및 전치사 목적어 자리에 불가)\n- **의문사절 (간접의문문)**: 의문사가 이끄는 절이 다른 문장의 명사 성분으로 들어가는 구문\n\n2. 간접의문문 어순 법칙\n직접의문문(Where does he live?)이 다른 문장 안으로 들어가 간접의문문이 될 때는 평서문 어순인 **`[의문사 + 주어 + 동사]`**로 바뀝니다.\n- Do you know? + Where does he live? ➡️ `Do you know where he lives?` (does 삭제 후 동사 수일치)\n\n3. 생각/추측 동사 사용 시 의문사 이동\n메인 문장의 동사가 **`think, believe, suppose, guess, imagine`**일 때는 간접의문문의 의문사가 **문장 맨 앞으로 이동**합니다.\n- Do you think? + Who is he? ➡️ `Who do you think he is?`",
     "examples": [
       "[that 명사절] I believe that honesty is the best policy.",
-      "[whether 명사절] I don't know whether he will accept our proposal or not.",
-      "[간접의문문 정답] Can you tell me where he lives? (where does he live (X))",
-      "[간접의문문 정답] Do you know what she wants? (what does she want (X))",
-      "[생각동사 의문사 이동] Who do you think is the best player in this team?"
+      "[whether 명사절] It doesn't matter whether you win or lose.",
+      "[간접의문문] Can you tell me what time the train leaves? (what time does the train leave (X))",
+      "[간접의문문] I wonder why she was absent yesterday.",
+      "[생각동사 의문사 이동] What do you think he bought?",
+      "[생각동사 의문사 이동] Who do you suppose will win the game?"
     ],
-    "tips": "💡 [Teacher's Secret Note]\n'Do you think what he bought?'라고 작문하면 틀립니다. think 동사 때문에 what이 맨 앞으로 튕겨 나가서 **'What do you think he bought?'**가 올바른 문장입니다."
+    "tips": "💡 [Teacher's Secret Note]\n간접의문문에서 의문사 자체가 주어 역할(Who broke the window?)을 할 때는 어순 변경 없이 바로 동사가 옵니다. (Tell me who broke the window.)"
   },
   {
     "category": "PART 7. 관계사, 비교, 가정법 및 특수구문",
-    "title": "18. 관계사 (Relatives): 관계대명사 vs 관계부사의 완벽 판별법",
+    "title": "18. 관계사: 관계대명사 vs 관계부사의 구분과 관계대명사 what",
     "formula": "관계대명사 + 불완전한 문장 / 관계부사 + 완전한 문장",
-    "explanation": "관계사는 앞에 나온 명사(선행사)를 뒤에서 길게 수식해 주는 연결고리입니다.\n\n1. 관계대명사 (who, which, that, what)\n- 선행사 명사를 뒤 문장에서 대명사로 대신 받아 연결합니다.\n- 따라서 관계대명사 뒤에는 주어나 목적어가 하나 빠져있는 **'불완전한 문장'**이 따라옵니다.\n- **관계대명사 what**: 자체에 선행사를 포함하고 있음 (~하는 것 = the thing which). 따라서 **앞에 선행사 명사가 절대 없어야 합니다.**\n\n2. 관계부사 (where, when, why, how)\n- 선행사 장소/시간/이유/방법을 뒤 문장에서 부사구로 연결합니다.\n- 따라서 관계부사 뒤에는 주어, 동사, 목적어가 완벽히 갖춰진 **'완전한 문장'**이 따라옵니다.\n- [주의] 선행사 **the way**와 관계부사 **how**는 절대로 함께 쓸 수 없으며, 둘 중 하나를 반드시 생략해야 합니다.\n  - the way how (X) ➡️ the way (O) / how (O) / the way in which (O)",
+    "explanation": "1. 관계대명사 (who, whom, which, that)\n- 선행사 명사를 뒤 문장의 대명사로 연결하므로, 뒤에는 주어나 목적어가 빠진 **불완전한 문장**이 옵니다.\n- 주격: who / which / that (+ 동사)\n- 목적격: whom / which / that (+ 주어 + 동사 ~ 목적어 비어있음)\n\n2. 관계대명사 what\n- 자체에 선행사(the thing)를 포함하고 있습니다 (~하는 것 = the thing which).\n- 따라서 **what 앞에는 선행사 명사가 절대 오지 않으며**, what 뒤에는 주어나 목적어가 비어있는 **불완전한 문장**이 옵니다.\n\n3. 관계부사 (where, when, why, how)\n- 선행사를 뒤 문장의 부사구로 연결하므로, 뒤에는 빠진 성분이 없는 **완전한 문장**이 옵니다.\n- **the way와 how의 병용 불가**: 선행사 `the way`와 관계부사 `how`는 절대로 함께 쓸 수 없으며 하나를 생략해야 합니다.\n  - This is the way how I solved it. (X) ➡️ `This is how I solved it.` (O) / `This is the way I solved it.` (O)",
     "examples": [
-      "[관대-주격] I met a girl who speaks five foreign languages. (주어 빠짐 - 불완전)",
-      "[관대-목적격] This is the book which I was looking for. (for의 목적어 빠짐 - 불완전)",
-      "[관계대명사 what] What I need right now is a warm cup of coffee. (선행사 없고 뒤 문장 불완전)",
-      "[관계부사] This is the house where I was born and grew up. (뒤 문장 완전)",
-      "[the way how 금지] This is how I solved the difficult problem. (the way how 쓰면 감점)"
+      "[관계대명사 주격] I met a doctor who lives in Seoul. (주어 비어있음 - 불완전)",
+      "[관계대명사 목적격] This is the book which I bought yesterday. (bought의 목적어 비어있음 - 불완전)",
+      "[관대 what] What I need is a cup of coffee. (앞에 선행사 없음, 뒤 문장 불완전)",
+      "[관계부사] This is the house where I was born. (뒤 문장 완전)",
+      "[관대 vs 관부] This is the town which I visited. (visited 목적어 필요 ➡️ 관대) vs This is the town where I live. (문장 완전 ➡️ 관부)"
     ],
-    "tips": "💡 [Teacher's Secret Note]\n관계대명사 vs 관계부사 3초 판별 공식!\n① 뒷문장에 주어나 목적어가 비어있다 ➡️ **관계대명사**\n② 뒷문장에 빠진 요소 없이 완벽하다 ➡️ **관계부사 (또는 전치사 + 관계대명사)**"
+    "tips": "💡 [Teacher's Secret Note]\n`전치사 + 관계대명사(in which, at which)` 뒤에는 관계부사처럼 **완전한 문장**이 옵니다."
   },
   {
     "category": "PART 7. 관계사, 비교, 가정법 및 특수구문",
-    "title": "19. 비교급과 최상급 (Comparison) 표현 및 강조 부사",
+    "title": "19. 비교 구문: 원급·비교급·최상급 표현 및 비교급 강조 부사",
     "formula": "원급(as~as) / 비교급(-er / more ~ than) / 최상급(the -est / the most ~)",
-    "explanation": "1. 원급 비교 및 비교급 기초\n- 원급 비교: **as + 형용사/부사 원급 + as** (~만큼 ~한)\n- 비교급: **비교급 + than** (~보다 더 ~한)\n\n2. 비교급 수식 강조 부사 5대장 (★시험 단골 출제)\n비교급 앞에 붙어 '훨씬'이라는 뜻을 더해주는 부사들입니다.\n- **much, even, still, far, a lot** + 비교급\n- [절대 주의] **very는 절대로 비교급을 수식할 수 없습니다!** (very taller는 오답)\n\n3. 주요 필수 비교 구문\n- **The + 비교급 ~, the + 비교급 ...**: ~하면 할수록 더욱 ...하다\n- **one of the + 최상급 + 복수명사**: 가장 ~한 것들 중 하나 (명사 끝에 -s 필수)",
+    "explanation": "1. 원급 비교 및 비교급\n- **원급 비교**: `as + 형용사/부사 원급 + as` (~만큼 ~한/하게)\n- **부정문**: `not as [so] + 원급 + as` (~만큼 ~하지는 않은)\n- **비교급**: `비교급(-er / more~) + than` (~보다 더 ~한/하게)\n\n2. 비교급 강조 부사 5가지\n비교급 앞에 붙어 '훨씬'이라는 뜻으로 격차를 강조해 줍니다.\n- **`much, even, still, far, a lot` + 비교급**\n- **very는 비교급을 절대로 수식할 수 없습니다.** (very taller는 오답이며, very는 원급만 수식)\n\n3. 주요 비교 구문\n- **The + 비교급 ~, the + 비교급 ...**: ~하면 할수록 더욱 ...하다 (The more you read, the smarter you become.)\n- **one of the + 최상급 + 복수명사**: 가장 ~한 것들 중 하나 (뒤의 명사에 복수 -s 필수!)\n  - He is one of the most famous singers in Korea.",
     "examples": [
-      "[원급 비교] She is as tall as her older brother.",
-      "[비교급 강조 정답] He is much smarter than I am. (much, even, still, far, a lot 가능)",
-      "[비교급 강조 오답] He is very smarter than I am. (X - very 사용 불가)",
-      "[The 비교급] The higher we climb the mountain, the colder it becomes.",
-      "[최상급 복수명사] BTS is one of the most famous boy bands in the world. (band (X) ➡️ bands (O))"
+      "[원급 비교] She is as tall as her mother.",
+      "[비교급 강조 정답] He is much smarter than me. (much, even, still, far, a lot 가능)",
+      "[비교급 강조 오답] He is very smarter than me. (X - very 사용 불가)",
+      "[The 비교급] The higher we climb, the colder it becomes.",
+      "[최상급 복수명사] Seoul is one of the largest cities in Asia. (city (X) -> cities (O))"
     ],
-    "tips": "💡 [Teacher's Secret Note]\nVery는 원급만 수식하고(very tall), Much는 비교급을 수식합니다(much taller). 구분을 묻는 문제가 내신 시험에 단골로 출제됩니다."
+    "tips": "💡 [Teacher's Secret Note]\n`as [형용사 / 부사] as` 구분법: 두 as를 가렸을 때 보어 자리가 비어있으면 **형용사**, 동사를 꾸미는 자리면 **부사**가 정답입니다."
   },
   {
     "category": "PART 7. 관계사, 비교, 가정법 및 특수구문",
-    "title": "20. 가정법 (Subjunctive Mood): 과거, 과거완료 및 혼합가정법",
+    "title": "20. 가정법: 가정법 과거·과거완료, 혼합가정법, If 생략 도치",
     "formula": "가정법 과거: If + S + 과거동사(were), S + would/could + 동사원형",
-    "explanation": "가정법은 사실이 아닌 일이나 일어나기 힘든 일을 상상하여 말할 때 일부러 시제를 후퇴시켜 표현하는 구문입니다.\n\n1. 가정법 과거 (현재 사실의 반대 상상)\n- 해석: \"만약 지금 ~라면, (지금) ~할 텐데\"\n- 공식: **If + 주어 + 과거동사(be동사는 were), 주어 + would/could/should/might + 동사원형**\n- 형태는 과거동사이지만, 해석은 반드시 **'현재'**로 해야 합니다.\n\n2. 가정법 과거완료 (과거 사실의 반대 상상)\n- 해석: \"만약 당시에 ~했었더라면, (당시에) ~했었을 텐데\"\n- 공식: **If + 주어 + had p.p., 주어 + would/could/should/might + have p.p.**\n\n3. 혼합가정법 (과거의 일이 현재까지 영향을 미침)\n- 해석: \"만약 당시에 ~했었더라면, (지금) ~할 텐데\"\n- 공식: **If + 주어 + had p.p. (과거 상상), 주어 + would/could + 동사원형 (현재 상상 - now 짝꿍)**",
+    "explanation": "가정법은 현실 직시적 사실과 반대되는 일이나 일어날 가능성이 없는 일을 상상할 때 일부러 시제를 후퇴시켜 표현합니다.\n\n1. 가정법 과거 (현재 사실의 반대 상상)\n- 의미: \"만약 (지금) ~라면, (지금) ~할 텐데\"\n- 공식: `If + 주어 + 과거동사 (be동사는 were), 주어 + would / could / should / might + 동사원형`\n- 형태는 과거동사이지만 **해석은 현재로 합니다.**\n  - If I **were** rich, I **could buy** the car. (지금 가난해서 못 삼)\n\n2. 가정법 과거완료 (과거 사실의 반대 상상)\n- 의미: \"만약 (당시에) ~했었더라면, (당시에) ~했었을 텐데\"\n- 공식: `If + 주어 + had p.p., 주어 + would / could / should / might + have p.p.`\n  - If I **had studied** hard, I **would have passed** the exam. (당시 공부를 안 해서 불합격함)\n\n3. 혼합가정법 (과거 일의 영향이 현재까지 미침)\n- 공식: `If + 주어 + had p.p. (과거 상상), 주어 + would / could + 동사원형 (현재 상상 - now 짝꿍)`\n  - If I had taken the medicine yesterday, I would be healthy now.\n\n4. If 생략 도치\nIf가 생략되면 주어와 동사의 위치가 바뀝니다.\n- If I were in your position ➡️ `Were I in your position...`\n- If I had known the truth ➡️ `Had I known the truth...`",
     "examples": [
-      "[가정법 과거] If I were rich, I could buy the luxury yacht. (지금 부자가 아니라서 못 사고 있음)",
-      "[가정법 과거완료] If I had studied harder last night, I would have passed the exam. (어젯밤 공부를 안 해서 시험에 떨어졌음)",
-      "[혼합가정법] If I had taken the medicine yesterday, I would be healthy now. (어제 약을 먹었더라면 지금 건강할 텐데)"
+      "[가정법 과거] If I had enough time now, I would help you.",
+      "[가정법 과거완료] If she had taken the bus, she would not have been late.",
+      "[혼합가정법] If I had saved money then, I would buy the house now.",
+      "[If 생략 도치] Had I known the news, I would have told you. (If I had known...)",
+      "[If 생략 도치] Were I rich, I could buy it. (If I were...)"
     ],
-    "tips": "💡 [Teacher's Secret Note]\nIf가 생략되면 주어와 동사의 위치가 바뀌는 '도치'가 일어납니다!\n- If I had known it ➡️ **Had I known it**\n- If I were you ➡️ **Were I you**"
+    "tips": "💡 [Teacher's Secret Note]\n'~가 없다면/없었더라면' 동의어 표현:\n- 현재 상상: Without water = But for water = If it were not for water = Were it not for water\n- 과거 상상: Without your help = But for your help = If it had not been for your help = Had it not been for your help"
   },
   {
     "category": "PART 7. 관계사, 비교, 가정법 및 특수구문",
-    "title": "21. 수일치 (Subject-Verb Agreement): 주어 형태별 단수/복수 동사 판별",
+    "title": "21. 수일치: 주어 형태에 따른 단수 및 복수 동사 판별법",
     "formula": "단수 주어 ➡️ 단수 동사 (is/was/-s) / 복수 주어 ➡️ 복수 동사 (are/were)",
-    "explanation": "수일치는 주어가 단수냐 복수냐에 따라 동사의 형태를 바르게 맞추는 영문법의 가장 기본적인 뼈대입니다.\n\n1. 단수 취급하는 주요 주어 구문\n- **To부정사구 / 동명사구 / 명사절 주어**: 하나로 묶여 단수 취급 (예: Swimming in the river **is** fun.)\n- **Every / Each + 단수명사**: 무조건 단수 동사 사용 (예: Every student **has** a book.)\n- **학문명 / 병명 / 뉴스**: -s로 끝나도 단수 취급 (Mathematics **is** difficult. / News **is** shocking.)\n\n2. A number of vs The number of 구별 (★매년 출제)\n- **A number of + 복수명사**: '많은 ~'라는 뜻으로 **복수 동사** 취급 (A number of students **are** absent.)\n- **The number of + 복수명사**: '~의 개수/숫자'라는 뜻으로 **단수 동사** 취급 (The number of students **is** increasing.)\n\n3. 부분 표현 수일치 (most, some, half, all, percent of + 명사)\n- of 뒤에 오는 **진짜 명사**에 수일치를 맞춥니다.\n  - Most of the **water is** polluted. (water에 맞춰 단수)\n  - Most of the **apples are** fresh. (apples에 맞춰 복수)",
+    "explanation": "1. 무조건 단수 취급하는 주어\n- **To부정사구 / 동명사구 / 명사절 주어**: 하나로 묶어 단수 취급합니다.\n  - [Learning new languages] **is** fun.\n- **Every / Each + 단수명사**: 항상 단수 취급합니다.\n  - Every student **has** a book.\n- **학문명 / 병명 / 뉴스**: -s로 끝나도 단수 취급합니다.\n  - Mathematics **is** easy. / The news **is** shocking.\n\n2. A number of vs The number of\n- **`A number of` + 복수명사**: '많은 ~'(= many)이란 뜻으로 **복수 동사** 취급합니다.\n  - A number of students **are** studying.\n- **`The number of` + 복수명사**: '~의 개수/숫자'라는 뜻으로 **단수 동사** 취급합니다.\n  - The number of students **is** increasing.\n\n3. 부분 표현 수일치 (most, some, half, all, percent of + 명사)\n- of 뒤에 나오는 **진짜 명사**에 수일치를 맞춥니다.\n  - Most of the **water is** clean. (water에 맞춰 단수)\n  - Most of the **apples are** fresh. (apples에 맞춰 복수)",
     "examples": [
-      "[동명사 주어] Learning foreign languages requires patience.",
-      "[Every 수일치] Every boy and girl in this class has their own goal.",
-      "[A number of] A number of people were injured in the accident. (were - 복수)",
-      "[The number of] The number of endangered animals is growing rapidly. (is - 단수)",
-      "[부분 표현] Three-fourths of the earth's surface is covered with water."
+      "[동명사 주어] Collecting old coins is my hobby.",
+      "[Every 단수] Every member of the team is required to join.",
+      "[A number of] A number of volunteers have arrived. (have - 복수)",
+      "[The number of] The number of cars is growing fast. (is - 단수)",
+      "[부분표현] Half of the cake was eaten. (cake 단수 ➡️ was)",
+      "[부분표현] Half of the cakes were eaten. (cakes 복수 ➡️ were)"
     ],
-    "tips": "💡 [Teacher's Secret Note]\n주어 뒤에 전치사구, 관계사절, 분사구 등 거품(수식어)이 아무리 길게 붙어도, 문장의 맨 앞에 있는 '진짜 명사'를 찾아 동사 수일치를 맞춰야 합니다."
+    "tips": "💡 [Teacher's Secret Note]\n`The quality` [of these products] **is** good.\n주어 뒤의 수식어구 거품[of these products]을 자르고 원본 주어 The quality에 수일치를 맞추세요."
   },
   {
     "category": "PART 7. 관계사, 비교, 가정법 및 특수구문",
-    "title": "22. 특수구문: 도치(Inversion), 강조(Emphasis) 및 화법(Reported Speech)",
+    "title": "22. 특수구문: 부정어 도치, It~that 강조 구문, 전달 화법 변환",
     "formula": "부정어 도치: 부정어 + 조동사/be + 주어 + 동사원형 / 강조: It is [강조] that ...",
-    "explanation": "1. 부정어 도치 구문 (Inversion)\n- 부정어구(**Never, Seldom, Hardly, Scarcely, Little, Not only**)가 문장의 맨 앞으로 나가면, 뒤의 주어와 동사 순서가 **[의문문 어순]**으로 바뀝니다.\n- be동사/조동사가 있을 때: 부정어 + be/조동사 + 주어\n- 일반동사가 있을 때: 부정어 + **do/does/did** + 주어 + **동사원형**\n\n2. It ~ that 강조 구문\n- 문장에서 강조하고 싶은 주어, 목적어, 부사(구/절)를 `It is (was)`와 `that` 사이에 집어넣어 강조합니다.\n- 예: I met Tom in the park yesterday.\n  - 주어 강조: It was **I** that met Tom in the park yesterday.\n  - 목적어 강조: It was **Tom** that I met in the park yesterday.\n  - 부사구 강조: It was **in the park** that I met Tom yesterday.\n\n3. 전달 화법 변환 (Direct ➡️ Indirect Speech)\n- 남이 한 말을 전달할 때 시점과 상황에 맞게 전달자의 인칭, 시제, 지시대명사/부사를 변경합니다.\n- 현재시제 ➡️ 과거시제 / 현재완료 ➡️ 과거완료 / will ➡️ would / now ➡️ then / today ➡️ that day",
+    "explanation": "1. 부정어 도치 구문 (Inversion)\n- 부정어구(**Never, Seldom, Hardly, Scarcely, Barely, Little, Not only**)가 문두로 나가면 뒤의 주어와 동사 위치가 **[의문문 어순]**으로 바뀝니다.\n- **be동사/조동사 있을 때**: `부정어 + be/조동사 + 주어` (Never have I seen...)\n- **일반동사 있을 때**: `부정어 + do/does/did + 주어 + 동사원형`\n  - Never did I dream that I would win.\n\n2. It ~ that 강조 구문\n- 문장에서 강조하고 싶은 **주어, 목적어, 부사(구/절)**를 `It is [was]`와 `that` 사이에 집어넣어 강조합니다. (※ 동사는 It~that으로 강조 불가하며 do/does/did 사용)\n- 예: Jane met Tom in the park yesterday.\n  - 주어 강조: It was **Jane** that met Tom in the park yesterday.\n  - 목적어 강조: It was **Tom** that Jane met in the park yesterday.\n  - 부사구 강조: It was **in the park** that Jane met Tom yesterday.\n\n3. 전달 화법 변환 (Direct ➡️ Indirect Speech)\n- 남이 한 말을 전달할 때 시점과 화자의 관점에 맞춰 인칭, 시제, 지시사/부사를 변환합니다.\n- 현재 ➡️ 과거 / 현재완료 ➡️ 과거완료 / will ➡️ would / now ➡️ then / today ➡️ that day",
     "examples": [
-      "[부정어 도치 일반동사] Never did I dream that I would pass the exam. (I dreamed (X))",
-      "[부정어 도치 조동사] Little did he know about the secret plan.",
-      "[It~that 강조] It was only yesterday that I heard the news.",
-      "[직접화법] He said, \"I am going to leave tomorrow.\"",
-      "[간접화법] He said that he was going to leave the next day."
+      "[부정어 도치 일반동사] Seldom does he complain about his work.",
+      "[부정어 도치 조동사] Little did I know about the plan.",
+      "[동사 강조 do] She **does** believe in honesty. (정말 믿는다)",
+      "[It~that 강조 부사구] It was in Seoul that I met her.",
+      "[간접화법 변환] She said to me, \"I will call you today.\" ➡️ She told me that she would call me that day."
     ],
-    "tips": "💡 [Teacher's Secret Note]\n부정어 도치 문장에서 일반동사가 과거형일 때 바로 과거동사를 뒤에 붙이면 오답입니다!\n'Never I saw him' (X) ➡️ **'Never did I see him'** (O)처럼 did를 꺼내고 동사원형을 써야 합니다."
+    "tips": "💡 [Teacher's Secret Note]\n`Not until` 도치 구문:\n- It was not until yesterday that I met him.\n➡️ **Not until yesterday did I meet him.** (`Not until + 시간` 뒤의 주절이 의문문 어순으로 도치)"
   }
 ]
